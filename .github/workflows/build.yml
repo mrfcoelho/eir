@@ -4,6 +4,7 @@ on: [push, pull_request, workflow_dispatch]
 
 permissions:
   contents: write
+  pages: write
   id-token: write
 
 jobs:
@@ -27,7 +28,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: dist/
+          path: _build/
 
   # Deployment job
   deploy:
