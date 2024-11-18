@@ -20,6 +20,7 @@ EIR
 .. Apêndice B - Códigos para metadados dos blocos de informação
 
 .. toctree::
+   :numbered:
    _files/glossario
    _files/introducao
    _files/requisitosInformacao
