@@ -1,25 +1,27 @@
 Glossário
 =========
 
-Ambiente comum de dados
+.. glossary::
 
-CDE (*Common Data Environment*)
+    Ambiente comum de dados
 
-Fonte de informação acordada para qualquer projeto ou ativo, para recolher, gerir e disseminar cada bloco de informação através de um processo estruturado.
+        CDE (*Common Data Environment*)
 
-*NOTA 1: O fluxo de trabalho do CDE descreve os processos a serem usados e uma solução CDE permite disponibilizar a tecnologia para suportar esses processos.*
+        Fonte de informação acordada para qualquer projeto ou ativo, para recolher, gerir e disseminar cada bloco de informação através de um processo estruturado.
 
-Ambiente, social e governação
+        *NOTA 1: O fluxo de trabalho do CDE descreve os processos a serem usados e uma solução CDE permite disponibilizar a tecnologia para suportar esses processos.*
 
-ESG (Environmental Social and Governance)
+    Ambiente, social e governação
 
-Indicadores ambientais, sociais e de governação concebidos para avaliar o nível de comprometimento das organizações com os objetivos do desenvolvimento sustentável.
+        ESG (Environmental Social and Governance)
 
-Aptidão
+        Indicadores ambientais, sociais e de governação concebidos para avaliar o nível de comprometimento das organizações com os objetivos do desenvolvimento sustentável.
 
-Medida da habilidade para desempenho e funções.
+    Aptidão
 
-NOTA 1: No contexto deste documento está relacionada com competências, conhecimento e especialização para gerir informação.
+        Medida da habilidade para desempenho e funções.
+
+        NOTA 1: No contexto deste documento está relacionada com competências, conhecimento e especialização para gerir informação.
 
 Ativo
 
