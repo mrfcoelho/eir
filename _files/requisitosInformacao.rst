@@ -1,0 +1,28 @@
+Requisitos de informação
+========================
+
+Requisitos de informação organizacional (OIR)
+---------------------------------------------
+
+O OIR alinha-se com as políticas ESG (Environmental Social and Governance) da empresa. Ressaltam-se os seguintes aspetos:
+
+Desenvolvimento de imóveis que gerem o menor impacto ao nível ambiental e ao nível da segurança e saúde da comunidade envolvente e dos futuros utilizadores dos imóveis.
+Construção de imóveis que cumpram com a regulamentação nacional e que incorporem soluções sustentáveis, incluindo certificação de sustentabilidade.
+Decisões de investimento suportadas por análises de custos e por estudos preliminares de impactes. Escolha de soluções que permitam otimização de custos de operação e manutenção.
+
+
+
+
+
+
+
+
+
+Nível de Informação Necessário
+------------------------------
+
+O desenvolvimento das tabelas com o Nível de Informação Necessário (EN ISO 7817-1:2024) a ser seguido nas diversas trocas de informação, entre os diversos atores, é da responsabilidade da Entidade Fornecedora Líder. As tabelas devem estar contidas no BEP, sendo que no presente documento são apresentadas tabelas de referência com requisitos mínimos. As entidades fornecedoras devem adicionar informação alfanumérica que não tenha sido prevista nas tabelas mencionadas e que seja relevante para caracterização dos objetos do projeto. O modelo IFC também deve conter informação que permita relacionar o objeto ao articulado do mapa de quantidades.
+
+Tabelas de Nível de Informação Necessário:
+
+:doc:`loin/arquitetura/Classificacao`

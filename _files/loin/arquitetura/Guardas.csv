@@ -1,0 +1,44 @@
+Objetos,,,,,,,Guardas,,,
+Ator requerente,,,,,,,Dono de Obra,,,
+Ator fornecedor,,,,,,,Projetista de arquitectura,,,
+,,,,,,,,FASE DE PROJETO / MARCO DE ENTREGA:,,
+,,,,,,,,Estudo Prévio,Anteprojeto,Projeto de Execução
+Proposito,,,,,,,,"Análise da solução conceptual          Gerar de peças desenhadas
+Visualização / Renderização","Gerar de peças desenhadas
+Visualização / Renderização
+Obtenção das licenças, permissões e autorizações para a execução do ativo
+Coordenação 3D","Gerar de peças desenhadas
+Visualização / Renderização
+Coordenação 3D
+Extração de quantidades e orçamentação"
+Referências EIR,,,,,,,,,,"EIR 04, EIR 05 e EIR 11"
+Requisitos mínimos de informação geométrica,,,,,,,,,,
+,Detalhe,,,,,,,"Tamanho, forma e dimensões aproximadas.","Tamanho, geometria e orientação já definidas. Detalhe de acabamentos, superfícies inclinadas e aberturas já representadas. As dimensões externas do elemento estão corretamente definidas.","As dimensões do elemento estão corretamente definidas. Conexões, ligações e a representação de quaisquer regiões que possam ter impacto na coordenação com outros sistemas."
+,Dimensão,,,,,,,3D,3D,3D
+,Localização,,,,,,,Relativa,Absoluta,Absoluta
+,Aparência,,,,,,,Aparência genérica,"Cor equivalente a sua visualização real, sem apresentar texturas.","Aparência equivalente a visualização real, com textura equivalente ao material à vista."
+,Comportamento Paramétrico,,,,,,,Não requerido,Não requerido,Não requerido
+Requisitos mínimos de informação alfanumérica,,,,,,,,,,
+,Atributos,,,,,,,,,
+,,Name,,,,,,,X,X
+,,Classe IFC IfcRailing,,,,,,X,X,X
+,,Predifined Type IfcRailingType,,,,,,,X,X
+,Conjuntos de propriedades,,,,,,,,,
+,,Propriedade,,,,,Conjunto de propriedades,,,
+,,Reference,,,,,Pset_RailingCommon,,X,X
+,,Height,,,,,Pset_RailingCommon,X,X,X
+,,Diameter,,,,,Pset_RailingCommon,,,X
+,,Lenght,,,,,Qto_RailingBaseQuantities,,,X
+,,IsExternal,,,,,Pset_RailingCommon,X,X,X
+,Materiais,,,,,,,,,
+,,Name,,,,,IfcMaterial,,X,X
+,Classificação,,,,,,,,,
+,,Sistema,,,,,Tabela,,,
+,,SECCLASS,,,,,Produtos,X,X,X
+,,,,,,,,,,
+,,IfcRailingTypeEnum,,,,,,,,
+,,https://standards.buildingsmart.org/IFC/RELEASE/IFC4_1/FINAL/HTML/schema/ifcsharedbldgelements/lexical/ifcrailingtypeenum.htm,,,,,,,,
+,,Pset_RailingCommon,,,,,,,,
+,,https://standards.buildingsmart.org/IFC/RELEASE/IFC4_1/FINAL/HTML/schema/ifcsharedbldgelements/lexical/ifcrailing.htm,,,,,,,,
+,,Qto_RailingBaseQuantities,,,,,,,,
+,,https://standards.buildingsmart.org/IFC/RELEASE/IFC4_1/FINAL/HTML/schema/ifcsharedbldgelements/qset/qto_railingbasequantities.htm,,,,,,,,
