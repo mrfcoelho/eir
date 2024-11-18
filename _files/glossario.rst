@@ -2,6 +2,7 @@ Glossário
 =========
 
 .. glossary::
+    :sorted:
 
     Ambiente comum de dados
 
