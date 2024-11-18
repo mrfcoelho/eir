@@ -6,11 +6,27 @@ Requisitos de informação organizacional (OIR)
 
 O OIR alinha-se com as políticas ESG (Environmental Social and Governance) da empresa. Ressaltam-se os seguintes aspetos:
 
-Desenvolvimento de imóveis que gerem o menor impacto ao nível ambiental e ao nível da segurança e saúde da comunidade envolvente e dos futuros utilizadores dos imóveis.
-Construção de imóveis que cumpram com a regulamentação nacional e que incorporem soluções sustentáveis, incluindo certificação de sustentabilidade.
-Decisões de investimento suportadas por análises de custos e por estudos preliminares de impactes. Escolha de soluções que permitam otimização de custos de operação e manutenção.
+- Desenvolvimento de imóveis que gerem o menor impacto ao nível ambiental e ao nível da segurança e saúde da comunidade envolvente e dos futuros utilizadores dos imóveis.
+- Construção de imóveis que cumpram com a regulamentação nacional e que incorporem soluções sustentáveis, incluindo certificação de sustentabilidade.
+- Decisões de investimento suportadas por análises de custos e por estudos preliminares de impactes. Escolha de soluções que permitam otimização de custos de operação e manutenção.
 
+Requisitos de informação do projeto (PIR)
+-----------------------------------------
 
+Entidade Requerente
+^^^^^^^^^^^^^^^^^^^
+
+buildingSMART Portugal
+
+Designação comercial do projeto
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Open BIM Gardens
+
+Âmbito do projeto
+^^^^^^^^^^^^^^^^^
+
+Edifício para uso misto (habitação multi-familiar e comércio) com 5 pisos acima do solo e 2 pisos abaixo do solo. Finalidade de comercialização e venda de todas as frações.
 
 
 
