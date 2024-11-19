@@ -28,6 +28,20 @@ Open BIM Gardens
 
 Edifício para uso misto (habitação multi-familiar e comércio) com 5 pisos acima do solo e 2 pisos abaixo do solo. Finalidade de comercialização e venda de todas as frações.
 
+Objetivos para os quais a informação será utilizada pela entidade requerente
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- PIR01: ``Conformidade regulamentar``
+    + Desenvolvimento de todos os elementos necessários para licenciamento do empreendimento junto das entidades municipais. Todas as peças escritas e desenhadas para o procedimento de licenciamento.
+- PIR02: ``Sustentabilidade``
+    + Desenvolvimento de estudo específico de sustentabilidade para certificação BREEAM 'Very Good'.
+- PIR03: ``Suporte ao negócio``
+    + Estimativa orçamental e estudo de viabilidade do projeto.
+- PIR04: ``Suporte à construção``
+    + Desenvolvimento de todos os elementos necessários para apoiar o processo de adjudicação de construção da obra.
+- PIR05: ``Saúde e Segurança``
+    +Desenvolvimento da documentação de Segurança e Saúde.
+
 
 
 
