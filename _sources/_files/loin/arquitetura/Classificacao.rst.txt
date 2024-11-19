@@ -1,0 +1,44 @@
+Classificação
+^^^^^^^^^^^^^
+
+.. .. csv-table:: Classificacao
+..     :file: Classificacao.csv
+..     :widths: auto
+
+
+.. flat-table:: Classificação
+    :header-rows: 0
+    
+    * - Classe
+      - Sistema de classificação
+      -
+      -
+      -
+      
+    * - Ator requerente
+      - Dono de Obra
+      
+    * - Ator fornecedor
+      - Todos
+
+    * - :rspan:`1` :cspan:`1`
+      - :cspan:`2` FASE DE PROJETO / MARCO DE ENTREGA:
+    
+    * - Estudo Prévio
+      - Projeto de Licenciamento
+      - Projeto de Execução
+.. Referências EIR,,,,,,,,,,
+.. Requisitos mínimos de informação geométrica,,,,,,,,,,
+.. ,Detalhe,,,,,,,Não requerido,Não requerido,Não requerido
+.. ,Dimensão,,,,,,,Não requerido,Não requerido,Não requerido
+.. ,Localização,,,,,,,Não requerido,Não requerido,Não requerido
+.. ,Aparência,,,,,,,Não requerido,Não requerido,Não requerido
+.. ,Comportamento Paramétrico,,,,,,,Não requerido,Não requerido,Não requerido
+.. Requisitos mínimos de informação alfanumérica,,,,,,,,,,
+.. ,Atributos,,,,,,,,,
+.. ,,Name,,,,,,X,X,X
+.. ,,Edition,,,,,,,,X
+.. ,Referências,,,,,,,,,
+.. ,,Atributos,,,,,,,,
+.. ,,,Identification,,,,,X,X,X
+.. ,,,Description,,,,,,,X
