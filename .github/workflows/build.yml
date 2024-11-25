@@ -24,7 +24,7 @@ jobs:
           python -m pip install sphinx sphinx-intl furo linuxdoc
       - name: Sphinx build
         run: |
-          make html
+          python3 build_docs.py
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

@@ -1,0 +1,3709 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024, buildingSMART Portugal
+# This file is distributed under the same license as the EIR package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: EIR \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-11-22 16:24+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.15.0\n"
+
+#: ../../_files/apendices.rst:2
+msgid "Apêndices"
+msgstr ""
+
+#: ../../_files/apendices.rst:5
+msgid "Apêndice A - Códigos para nomenclatura de blocos de informação"
+msgstr ""
+
+#: ../../_files/apendices.rst:9
+msgid "Tabela A.1 – Códigos para o campo Forma"
+msgstr ""
+
+#: ../../_files/apendices.rst:12
+msgid "Tipo"
+msgstr ""
+
+#: ../../_files/apendices.rst:13 ../../_files/apendices.rst:113
+#: ../../_files/apendices.rst:341 ../../_files/criteriosAceitacao.rst:384
+#: ../../_files/criteriosAceitacao.rst:417
+#: ../../_files/criteriosAceitacao.rst:524
+#: ../../_files/criteriosAceitacao.rst:561
+#: ../../_files/informacaoSuporte.rst:20 ../../_files/informacaoSuporte.rst:83
+msgid "Descrição"
+msgstr ""
+
+#: ../../_files/apendices.rst:14 ../../_files/apendices.rst:114
+#: ../../_files/apendices.rst:299 ../../_files/apendices.rst:342
+msgid "Código"
+msgstr ""
+
+#: ../../_files/apendices.rst:16
+msgid ":rspan:`5` Comunicação"
+msgstr ""
+
+#: ../../_files/apendices.rst:17
+msgid "Agenda"
+msgstr ""
+
+#: ../../_files/apendices.rst:18
+msgid "AG"
+msgstr ""
+
+#: ../../_files/apendices.rst:20
+msgid "Correspondência"
+msgstr ""
+
+#: ../../_files/apendices.rst:21 ../../_files/apendices.rst:320
+msgid "CO"
+msgstr ""
+
+#: ../../_files/apendices.rst:23
+msgid "Ficheiro de notas"
+msgstr ""
+
+#: ../../_files/apendices.rst:24
+msgid "FN"
+msgstr ""
+
+#: ../../_files/apendices.rst:26
+msgid "Ata"
+msgstr ""
+
+#: ../../_files/apendices.rst:27
+msgid "AT"
+msgstr ""
+
+#: ../../_files/apendices.rst:29
+msgid "Apresentação"
+msgstr ""
+
+#: ../../_files/apendices.rst:30 ../../_files/apendices.rst:314
+msgid "AP"
+msgstr ""
+
+#: ../../_files/apendices.rst:32
+msgid "Pedido"
+msgstr ""
+
+#: ../../_files/apendices.rst:33
+msgid "PI"
+msgstr ""
+
+#: ../../_files/apendices.rst:35
+msgid "Dados"
+msgstr ""
+
+#: ../../_files/apendices.rst:36
+msgid "Base de dados"
+msgstr ""
+
+#: ../../_files/apendices.rst:37
+msgid "BD"
+msgstr ""
+
+#: ../../_files/apendices.rst:39
+msgid ":rspan:`1` Projeto"
+msgstr ""
+
+#: ../../_files/apendices.rst:40
+msgid "Cálculos"
+msgstr ""
+
+#: ../../_files/apendices.rst:41
+msgid "CA"
+msgstr ""
+
+#: ../../_files/apendices.rst:43
+msgid "Especificação"
+msgstr ""
+
+#: ../../_files/apendices.rst:44 ../../_files/apendices.rst:311
+msgid "EP"
+msgstr ""
+
+#: ../../_files/apendices.rst:46
+msgid ":rspan:`2` Financeiro"
+msgstr ""
+
+#: ../../_files/apendices.rst:47
+msgid "Mapa de quantidades"
+msgstr ""
+
+#: ../../_files/apendices.rst:48
+msgid "MQ"
+msgstr ""
+
+#: ../../_files/apendices.rst:50
+msgid "Estimativa orçamental"
+msgstr ""
+
+#: ../../_files/apendices.rst:51
+msgid "EO"
+msgstr ""
+
+#: ../../_files/apendices.rst:53
+msgid "Cotação"
+msgstr ""
+
+#: ../../_files/apendices.rst:54
+msgid "CT"
+msgstr ""
+
+#: ../../_files/apendices.rst:56
+msgid ":rspan:`7` Gráfico"
+msgstr ""
+
+#: ../../_files/apendices.rst:57
+msgid "Ficheiro de animação"
+msgstr ""
+
+#: ../../_files/apendices.rst:58
+msgid "FA"
+msgstr ""
+
+#: ../../_files/apendices.rst:60
+msgid "Deteção de colisões"
+msgstr ""
+
+#: ../../_files/apendices.rst:61
+msgid "DC"
+msgstr ""
+
+#: ../../_files/apendices.rst:63
+msgid "Modelo combinado"
+msgstr ""
+
+#: ../../_files/apendices.rst:64
+msgid "MC"
+msgstr ""
+
+#: ../../_files/apendices.rst:66
+msgid "Desenho"
+msgstr ""
+
+#: ../../_files/apendices.rst:67
+msgid "DS"
+msgstr ""
+
+#: ../../_files/apendices.rst:69
+msgid "Modelo - tridimensional"
+msgstr ""
+
+#: ../../_files/apendices.rst:70
+msgid "M3"
+msgstr ""
+
+#: ../../_files/apendices.rst:72
+msgid "Modelo - bidimensional"
+msgstr ""
+
+#: ../../_files/apendices.rst:73
+msgid "M2"
+msgstr ""
+
+#: ../../_files/apendices.rst:75
+msgid "Fotografia"
+msgstr ""
+
+#: ../../_files/apendices.rst:76
+msgid "FT"
+msgstr ""
+
+#: ../../_files/apendices.rst:78
+msgid "Visualização"
+msgstr ""
+
+#: ../../_files/apendices.rst:79
+msgid "VS"
+msgstr ""
+
+#: ../../_files/apendices.rst:81
+msgid "Orientação oficial"
+msgstr ""
+
+#: ../../_files/apendices.rst:82
+msgid "Regulamento"
+msgstr ""
+
+#: ../../_files/apendices.rst:83
+msgid "RG"
+msgstr ""
+
+#: ../../_files/apendices.rst:85
+msgid "Planeamento de projeto"
+msgstr ""
+
+#: ../../_files/apendices.rst:86
+msgid "Programa"
+msgstr ""
+
+#: ../../_files/apendices.rst:87
+msgid "PR"
+msgstr ""
+
+#: ../../_files/apendices.rst:89
+msgid ":rspan:`6` Registo de informação"
+msgstr ""
+
+#: ../../_files/apendices.rst:90
+msgid "Certificado"
+msgstr ""
+
+#: ../../_files/apendices.rst:91
+msgid "CE"
+msgstr ""
+
+#: ../../_files/apendices.rst:93
+msgid "Mapa de processos"
+msgstr ""
+
+#: ../../_files/apendices.rst:94
+msgid "MP"
+msgstr ""
+
+#: ../../_files/apendices.rst:96
+msgid "Relatório"
+msgstr ""
+
+#: ../../_files/apendices.rst:97
+msgid "RL"
+msgstr ""
+
+#: ../../_files/apendices.rst:99
+msgid "Cronograma ou tabela"
+msgstr ""
+
+#: ../../_files/apendices.rst:100
+msgid "CR"
+msgstr ""
+
+#: ../../_files/apendices.rst:102
+msgid "Levantamento"
+msgstr ""
+
+#: ../../_files/apendices.rst:103
+msgid "LV"
+msgstr ""
+
+#: ../../_files/apendices.rst:105
+msgid "Documento de legitimidade"
+msgstr ""
+
+#: ../../_files/apendices.rst:106
+msgid "LG"
+msgstr ""
+
+#: ../../_files/apendices.rst:110
+msgid "Tabela A.2 – Código para o campo Especialidade"
+msgstr ""
+
+#: ../../_files/apendices.rst:116
+msgid "Acessibilidades"
+msgstr ""
+
+#: ../../_files/apendices.rst:117
+msgid "ACS"
+msgstr ""
+
+#: ../../_files/apendices.rst:119
+msgid "Engenharia acústica"
+msgstr ""
+
+#: ../../_files/apendices.rst:120
+msgid "ACU"
+msgstr ""
+
+#: ../../_files/apendices.rst:122
+msgid "Agricultura e desenvolvimento rural"
+msgstr ""
+
+#: ../../_files/apendices.rst:123
+msgid "ADR"
+msgstr ""
+
+#: ../../_files/apendices.rst:125
+msgid "Engenharia do ambiente"
+msgstr ""
+
+#: ../../_files/apendices.rst:126
+msgid "AMB"
+msgstr ""
+
+#: ../../_files/apendices.rst:128
+msgid "Arquitetura paisagista"
+msgstr ""
+
+#: ../../_files/apendices.rst:129
+msgid "APA"
+msgstr ""
+
+#: ../../_files/apendices.rst:131
+msgid "Arquitetura"
+msgstr ""
+
+#: ../../_files/apendices.rst:132
+msgid "ARQ"
+msgstr ""
+
+#: ../../_files/apendices.rst:134
+msgid "Auditorias de segurança rodoviária"
+msgstr ""
+
+#: ../../_files/apendices.rst:135
+msgid "ASR"
+msgstr ""
+
+#: ../../_files/apendices.rst:137
+msgid "Barragens"
+msgstr ""
+
+#: ../../_files/apendices.rst:138
+msgid "BAR"
+msgstr ""
+
+#: ../../_files/apendices.rst:140
+msgid "Cartografia"
+msgstr ""
+
+#: ../../_files/apendices.rst:141
+msgid "CAR"
+msgstr ""
+
+#: ../../_files/apendices.rst:143
+msgid "Canal técnico rodoviário"
+msgstr ""
+
+#: ../../_files/apendices.rst:144
+msgid "CTR"
+msgstr ""
+
+#: ../../_files/apendices.rst:146
+msgid "Demolições"
+msgstr ""
+
+#: ../../_files/apendices.rst:147
+msgid "DEM"
+msgstr ""
+
+#: ../../_files/apendices.rst:149
+msgid "Escavação e/ou contenção periférica"
+msgstr ""
+
+#: ../../_files/apendices.rst:150
+msgid "ECP"
+msgstr ""
+
+#: ../../_files/apendices.rst:152
+msgid "Estudo de comportamento térmico"
+msgstr ""
+
+#: ../../_files/apendices.rst:153
+msgid "ECT"
+msgstr ""
+
+#: ../../_files/apendices.rst:155
+msgid "Engenharia eletrotécnica - eletricidade"
+msgstr ""
+
+#: ../../_files/apendices.rst:156
+msgid "EEL"
+msgstr ""
+
+#: ../../_files/apendices.rst:158
+msgid "Engenharia eletrotécnica - ited"
+msgstr ""
+
+#: ../../_files/apendices.rst:159
+msgid "EIT"
+msgstr ""
+
+#: ../../_files/apendices.rst:161
+msgid "Engenharia eletromecânica"
+msgstr ""
+
+#: ../../_files/apendices.rst:162
+msgid "ELM"
+msgstr ""
+
+#: ../../_files/apendices.rst:164
+msgid "Estudo do ruído"
+msgstr ""
+
+#: ../../_files/apendices.rst:165
+msgid "ERU"
+msgstr ""
+
+#: ../../_files/apendices.rst:167
+msgid "Engenharia de estruturas"
+msgstr ""
+
+#: ../../_files/apendices.rst:168
+msgid "EST"
+msgstr ""
+
+#: ../../_files/apendices.rst:170
+msgid "Estudo de tráfego"
+msgstr ""
+
+#: ../../_files/apendices.rst:171
+msgid "ETF"
+msgstr ""
+
+#: ../../_files/apendices.rst:173
+msgid "Estruturas de suporte e taludes"
+msgstr ""
+
+#: ../../_files/apendices.rst:174
+msgid "ETS"
+msgstr ""
+
+#: ../../_files/apendices.rst:176
+msgid "Fluidos industriais"
+msgstr ""
+
+#: ../../_files/apendices.rst:177
+msgid "FLI"
+msgstr ""
+
+#: ../../_files/apendices.rst:179
+msgid "Gás"
+msgstr ""
+
+#: ../../_files/apendices.rst:180
+msgid "GAS"
+msgstr ""
+
+#: ../../_files/apendices.rst:182
+msgid "Geologia"
+msgstr ""
+
+#: ../../_files/apendices.rst:183
+msgid "GEO"
+msgstr ""
+
+#: ../../_files/apendices.rst:185
+msgid "Geotecnia"
+msgstr ""
+
+#: ../../_files/apendices.rst:186
+msgid "GET"
+msgstr ""
+
+#: ../../_files/apendices.rst:188
+msgid "Gestão técnica centralizada"
+msgstr ""
+
+#: ../../_files/apendices.rst:189
+msgid "GTC"
+msgstr ""
+
+#: ../../_files/apendices.rst:191
+msgid "Engenharia hidráulica - abastecimento de água"
+msgstr ""
+
+#: ../../_files/apendices.rst:192
+msgid "HAB"
+msgstr ""
+
+#: ../../_files/apendices.rst:194
+msgid "Engenharia hidráulica - drenagem de águas pluviais"
+msgstr ""
+
+#: ../../_files/apendices.rst:195
+msgid "HAP"
+msgstr ""
+
+#: ../../_files/apendices.rst:197
+msgid "Engenharia hidráulica - drenagem de águas residuais"
+msgstr ""
+
+#: ../../_files/apendices.rst:198
+msgid "HAR"
+msgstr ""
+
+#: ../../_files/apendices.rst:200
+msgid "Engenharia hidráulica - drenagem (pluviais e residuais)"
+msgstr ""
+
+#: ../../_files/apendices.rst:201
+msgid "HDR"
+msgstr ""
+
+#: ../../_files/apendices.rst:203
+msgid "Hidrogeologia"
+msgstr ""
+
+#: ../../_files/apendices.rst:204
+msgid "HGL"
+msgstr ""
+
+#: ../../_files/apendices.rst:206
+msgid "Engenharia hidráulica"
+msgstr ""
+
+#: ../../_files/apendices.rst:207
+msgid "HID"
+msgstr ""
+
+#: ../../_files/apendices.rst:209
+msgid "Engenharia hidráulica - tratamento de água"
+msgstr ""
+
+#: ../../_files/apendices.rst:210
+msgid "HTA"
+msgstr ""
+
+#: ../../_files/apendices.rst:212
+msgid "Engenharia hidráulica - tratamento de águas residuais"
+msgstr ""
+
+#: ../../_files/apendices.rst:213
+msgid "HTR"
+msgstr ""
+
+#: ../../_files/apendices.rst:215
+msgid "Infraestruturas aeroportuárias"
+msgstr ""
+
+#: ../../_files/apendices.rst:216
+msgid "IAE"
+msgstr ""
+
+#: ../../_files/apendices.rst:218
+msgid "Infraestruturas ferroviárias"
+msgstr ""
+
+#: ../../_files/apendices.rst:219
+msgid "IFE"
+msgstr ""
+
+#: ../../_files/apendices.rst:221
+msgid "Infraestruturas marítimas"
+msgstr ""
+
+#: ../../_files/apendices.rst:222
+msgid "IMA"
+msgstr ""
+
+#: ../../_files/apendices.rst:224
+msgid "Instrumentação"
+msgstr ""
+
+#: ../../_files/apendices.rst:225
+msgid "INS"
+msgstr ""
+
+#: ../../_files/apendices.rst:227
+msgid "Infraestruturas rodoviárias"
+msgstr ""
+
+#: ../../_files/apendices.rst:228
+msgid "IRO"
+msgstr ""
+
+#: ../../_files/apendices.rst:230
+msgid "Linha de transporte de energia"
+msgstr ""
+
+#: ../../_files/apendices.rst:231
+msgid "LTE"
+msgstr ""
+
+#: ../../_files/apendices.rst:233
+msgid "Estudo luminotécnico"
+msgstr ""
+
+#: ../../_files/apendices.rst:234
+msgid "LUM"
+msgstr ""
+
+#: ../../_files/apendices.rst:236
+msgid "Engenharia mecânica - avac"
+msgstr ""
+
+#: ../../_files/apendices.rst:237
+msgid "MAC"
+msgstr ""
+
+#: ../../_files/apendices.rst:239
+msgid "Engenharia mecânica - climatização"
+msgstr ""
+
+#: ../../_files/apendices.rst:240
+msgid "MCL"
+msgstr ""
+
+#: ../../_files/apendices.rst:242
+msgid "Engenharia mecânica - ventilação /exaustão"
+msgstr ""
+
+#: ../../_files/apendices.rst:243
+msgid "MVE"
+msgstr ""
+
+#: ../../_files/apendices.rst:245
+msgid "Obras de arte"
+msgstr ""
+
+#: ../../_files/apendices.rst:246
+msgid "OAR"
+msgstr ""
+
+#: ../../_files/apendices.rst:248
+msgid "Rede de ar comprimido"
+msgstr ""
+
+#: ../../_files/apendices.rst:249
+msgid "RAC"
+msgstr ""
+
+#: ../../_files/apendices.rst:251
+msgid "Resíduos sólidos urbanos"
+msgstr ""
+
+#: ../../_files/apendices.rst:252
+msgid "RSU"
+msgstr ""
+
+#: ../../_files/apendices.rst:254
+msgid "Serviços afetados"
+msgstr ""
+
+#: ../../_files/apendices.rst:255
+msgid "SAF"
+msgstr ""
+
+#: ../../_files/apendices.rst:257
+msgid "Segurança contra incêndio"
+msgstr ""
+
+#: ../../_files/apendices.rst:258
+msgid "SCI"
+msgstr ""
+
+#: ../../_files/apendices.rst:260 ../../_files/criteriosAceitacao.rst:368
+msgid "Segurança"
+msgstr ""
+
+#: ../../_files/apendices.rst:261
+msgid "SEG"
+msgstr ""
+
+#: ../../_files/apendices.rst:263
+msgid "Sinalização e equipamento de segurança"
+msgstr ""
+
+#: ../../_files/apendices.rst:264
+msgid "SIN"
+msgstr ""
+
+#: ../../_files/apendices.rst:266
+msgid "Ocupação do solo"
+msgstr ""
+
+#: ../../_files/apendices.rst:267
+msgid "SOL"
+msgstr ""
+
+#: ../../_files/apendices.rst:269
+msgid "Som e áudio"
+msgstr ""
+
+#: ../../_files/apendices.rst:270
+msgid "SOM"
+msgstr ""
+
+#: ../../_files/apendices.rst:272
+msgid "Obras subterrâneas"
+msgstr ""
+
+#: ../../_files/apendices.rst:273
+msgid "SUB"
+msgstr ""
+
+#: ../../_files/apendices.rst:275
+msgid "Terraplenagens"
+msgstr ""
+
+#: ../../_files/apendices.rst:276
+msgid "TER"
+msgstr ""
+
+#: ../../_files/apendices.rst:278
+msgid "Topografia"
+msgstr ""
+
+#: ../../_files/apendices.rst:279
+msgid "TOP"
+msgstr ""
+
+#: ../../_files/apendices.rst:281
+msgid "Traçado"
+msgstr ""
+
+#: ../../_files/apendices.rst:282
+msgid "TRA"
+msgstr ""
+
+#: ../../_files/apendices.rst:284
+msgid "Urbanismo"
+msgstr ""
+
+#: ../../_files/apendices.rst:285
+msgid "URB"
+msgstr ""
+
+#: ../../_files/apendices.rst:287
+msgid "Não disciplinar / não aplicável"
+msgstr ""
+
+#: ../../_files/apendices.rst:288
+msgid "XXX"
+msgstr ""
+
+#: ../../_files/apendices.rst:290
+msgid "Multidisciplinar"
+msgstr ""
+
+#: ../../_files/apendices.rst:291
+msgid "ZZZ    |"
+msgstr ""
+
+#: ../../_files/apendices.rst:295
+msgid "Tabela A.3 – Código para o campo Fase"
+msgstr ""
+
+#: ../../_files/apendices.rst:298
+msgid "Descrição da fase"
+msgstr ""
+
+#: ../../_files/apendices.rst:301
+msgid "Sem fase"
+msgstr ""
+
+#: ../../_files/apendices.rst:302
+msgid "XX"
+msgstr ""
+
+#: ../../_files/apendices.rst:304
+msgid "Programa preliminar"
+msgstr ""
+
+#: ../../_files/apendices.rst:305
+msgid "PP"
+msgstr ""
+
+#: ../../_files/apendices.rst:307
+msgid "Programa base"
+msgstr ""
+
+#: ../../_files/apendices.rst:308
+msgid "PB"
+msgstr ""
+
+#: ../../_files/apendices.rst:310
+#: ../../_files/loin/arquitetura/Classificacao.rst:28
+msgid "Estudo Prévio"
+msgstr ""
+
+#: ../../_files/apendices.rst:313
+msgid "Anteprojeto"
+msgstr ""
+
+#: ../../_files/apendices.rst:316
+msgid "Projeto de execução"
+msgstr ""
+
+#: ../../_files/apendices.rst:317
+msgid "PE"
+msgstr ""
+
+#: ../../_files/apendices.rst:319
+msgid "Construção"
+msgstr ""
+
+#: ../../_files/apendices.rst:322
+msgid "Entrega da obra (telas finais)"
+msgstr ""
+
+#: ../../_files/apendices.rst:323
+msgid "TF"
+msgstr ""
+
+#: ../../_files/apendices.rst:325
+msgid "Utilização dos ativos (operação e manutenção)"
+msgstr ""
+
+#: ../../_files/apendices.rst:326
+msgid "OM"
+msgstr ""
+
+#: ../../_files/apendices.rst:328
+msgid "Fim de vida (descomissionamento / demolição)"
+msgstr ""
+
+#: ../../_files/apendices.rst:329
+msgid "DD"
+msgstr ""
+
+#: ../../_files/apendices.rst:333
+msgid "Apêndice B - Códigos para metadados dos blocos de informação"
+msgstr ""
+
+#: ../../_files/apendices.rst:337
+msgid "Tabela B.1 – Códigos para o Estado dos blocos de informação dentro do CDE"
+msgstr ""
+
+#: ../../_files/apendices.rst:344
+msgid ":cspan:`1` Estado\\: Trabalho em curso"
+msgstr ""
+
+#: ../../_files/apendices.rst:346
+msgid "Bloco de informação em desenvolvimento pela equipa de trabalho."
+msgstr ""
+
+#: ../../_files/apendices.rst:347
+msgid "S0"
+msgstr ""
+
+#: ../../_files/apendices.rst:349
+msgid ":cspan:`1` Estado\\: Partilhado"
+msgstr ""
+
+#: ../../_files/apendices.rst:351
+msgid ""
+"Bloco de informação adequado para coordenação geométrica e não geométrica"
+" dentro da equipa de desenvolvimento."
+msgstr ""
+
+#: ../../_files/apendices.rst:352
+msgid "S1"
+msgstr ""
+
+#: ../../_files/apendices.rst:354
+msgid ""
+"Bloco de informação adequado como referência de informação para outras "
+"equipas de trabalho dentro da equipa de desenvolvimento."
+msgstr ""
+
+#: ../../_files/apendices.rst:355
+msgid "S2"
+msgstr ""
+
+#: ../../_files/apendices.rst:357
+msgid ""
+"Bloco de informação adequado para revisão e comentários dentro da equipa "
+"de desenvolvimento."
+msgstr ""
+
+#: ../../_files/apendices.rst:358
+msgid "S3"
+msgstr ""
+
+#: ../../_files/apendices.rst:360
+msgid ""
+"Bloco de informação adequado para revisão e aprovação pela Entidade "
+"Fornecedora Líder."
+msgstr ""
+
+#: ../../_files/apendices.rst:361
+msgid "S4"
+msgstr ""
+
+#: ../../_files/apendices.rst:363
+msgid ""
+"Bloco de informação adequado para revisão e aceitação pela Entidade "
+"Requerente."
+msgstr ""
+
+#: ../../_files/apendices.rst:364
+msgid "S5"
+msgstr ""
+
+#: ../../_files/apendices.rst:366
+msgid ":cspan:`1` Estado\\: Publicado"
+msgstr ""
+
+#: ../../_files/apendices.rst:368
+msgid "Blocos de informação autorizados e/ou aceites.~"
+msgstr ""
+
+#: ../../_files/apendices.rst:369
+msgid "A1, An, etc"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:2 ../../_files/glossario.rst:66
+msgid "Critérios de aceitação"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:4
+msgid ""
+"Os critérios de aceitação são utilizados para verificar se a informação é"
+" entregue de forma adequada. De acordo com a cláusula 5.2.1 c) da EN ISO "
+"19650-2, existem quatro recursos que fornecem regras para a forma como os"
+" requisitos de informação são definidos, entregues e verificados para "
+"todo o projeto, nomeadamente: (a) as normas de informação do projeto; (b)"
+" os métodos e procedimentos de produção de informação do projeto; (c) as "
+"informações de referência; e (d) os recursos partilhados."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:7
+msgid "Normas de informação do projeto"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:9
+msgid ""
+"As normas de informação do projeto visam descrever os critérios que irão "
+"dar suporte e consistência à informação que irá ser desenvolvida ao longo"
+" do projeto. De acordo com a cláusula 5.1.4 da EN ISO 19650-2, na sua "
+"definição há que ter em conta como serão efetuadas as trocas de "
+"informação, qual a estrutura e classificação da informação, qual o método"
+" usado para especificar o nível de informação necessário e o uso da "
+"informação em fases posteriores ao projeto e para operação do ativo."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:12
+msgid "Normas"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:14
+msgid "``Série de normas EN ISO 19650 e norma EN ISO 7817-1:2024``"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:17
+msgid "Nomenclatura dos blocos de informação - Ficheiros"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:19
+msgid ""
+"``Os blocos de informação devem ser nomeados com o uso de oito campos, "
+"separados por um delimitador, de acordo com a seguinte convenção:``"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:21
+msgid "Campos da nomenclatura"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:24
+msgid "**a) Projeto**"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:26
+msgid "Código único e representativo do projeto."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:33
+msgid "**b) Originador**"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:35
+msgid "Variável de acordo com a organização autora do bloco de informação."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:37
+msgid ""
+"Os códigos devem ser definidos por cada Entidade Fornecedora e fazer "
+"alusão ao nome da empresa. A entidade requerente fará a aprovação dos "
+"códigos propostos."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:39
+msgid ""
+"O código deve estar definido no Plano de Execução BIM e conter três "
+"caracteres."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:45
+msgid "**c) Estrutura de desagregação funcional**"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:47
+msgid ""
+"Variável, refere-se às subdivisões relacionadas com a função, podendo ser"
+" desagregadas em volumes e sistemas."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:49
+msgid ""
+"A definição destes códigos é de responsabilidade de cada Entidade "
+"Fornecedora e pode ter até quatro caracteres."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:51
+msgid ""
+"Os códigos definidos devem estar listados juntos às suas definições no "
+"Plano de Execução BIM."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:60
+msgid "**d) Estrutura de desagregação espacial**"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:62
+msgid ""
+"Variável, refere-se aos pisos do projeto ou outros tipos de desagregação "
+"espacial."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:64
+msgid ""
+"A listagem abaixo pode ser expandida pela Entidade Fornecedora caso se "
+"considere necessário."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:66
+#: ../../_files/criteriosAceitacao.rst:89
+msgid ""
+"Os novos códigos definidos devem estar listados juntos às suas definições"
+" no Plano de Execução BIM."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:83
+msgid "**e) Forma**"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:85
+msgid ""
+"Variável, refere-se à forma em que as informações são apresentadas. Cada "
+"bloco de informação deve conter um único tipo de informação."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:87
+msgid ""
+"A listagem pode ser expandida pela Entidade Fornecedora caso se considere"
+" necessário."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:97
+msgid "**f) Especialidade**"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:99
+msgid ""
+"Variável de acordo com especialidade à qual o bloco de informação está "
+"relacionado."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:107
+msgid "**g) Fase**"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:109
+msgid ""
+"Variável de acordo com a fase à qual o bloco de informação está "
+"relacionado."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:117
+msgid "**h) Número**"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:119
+msgid ""
+"Variável e ordenado, aplicável a blocos de informação que façam parte de "
+"uma série de blocos e para os quais não há distinção em nenhum dos outros"
+" campos."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:121
+msgid ""
+"Os códigos devem conter o máximo de quatro dígitos composto por números "
+"inteiros."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:131
+msgid "**h) Exemplo**"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:133
+msgid ""
+"Um ficheiro PDF desenvolvido pela entidade fornecedora “Gabinete de "
+"Projetos de Portugal” (GPP), responsável pelo projeto de estabilidade, "
+"contendo o primeiro desenho 2D do projeto de fundações do edifício, para "
+"o qual não se aplica a definição de pisos."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:140
+msgid "Metadados dos blocos de informação - Ficheiros"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:142
+msgid ""
+"Metadados são atributos adicionais ao bloco de informação, que facilitam "
+"a localização, o uso e a gestão do mesmo."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:144
+msgid ""
+"Os blocos de informação devem conter metadados, separados por um "
+"delimitador, de acordo com a seguinte convenção:"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:146
+msgid "Campos dos metadados"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:149
+msgid "**a) Estado**"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:151
+msgid ""
+"A definição dos estados é apresentada, a propósito do CDE. Os respectivos"
+" códigos estão listados na :ref:`ref-tabela-B1` do Apêndice B deste "
+"documento."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:153
+msgid "**b) Revisão**"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:155
+msgid ""
+"O código de revisão deve ser composto por três campos de acordo com a "
+"seguinte definição:"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:160
+msgid ""
+"``Campo1`` - Letra única indicando se a revisão é Preliminar (P) ou "
+"Contratual (C)"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:161
+msgid ""
+"``Campo2`` - Dois caracteres numéricos indicando o número da revisão "
+"primária."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:162
+msgid ""
+"``Campo3`` - Dois caracteres numéricos indicando a versão da revisão "
+"primária, exclusivamente utilizado para o “Trabalho em Curso”."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:164
+msgid "**c) Classificação**"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:166
+msgid ""
+"Classificação de acordo com a `Tabela PM` (Project Management) do sistema"
+" `SECClasS`. Podem ser utilizadas outras tabelas do sistema de "
+"classificação se forem consideradas mais adequadas, desde que acordado "
+"com a Entidade Requerente."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:168
+msgid "**d) Descrição**"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:170
+msgid "Descrição breve do conteúdo do bloco de informação."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:172
+msgid "**e) Data**"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:174
+msgid "Data da última edição do bloco de informação."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:176
+msgid "**f) Outros**"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:178
+msgid ""
+"Os blocos de informação podem incluir metadados adicionais caso sejam "
+"entendidos como necessários pela Entidade Fornecedora. Os novos códigos "
+"definidos devem estar listados juntos às suas definições no Plano de "
+"Execução BIM."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:182
+msgid ""
+"Nomenclatura dos blocos de informação - IFC: Objetos e informação "
+"alfanumérica"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:184
+msgid ""
+"Não se prescreve. No entanto, recomenda-se a utilização das nomenclaturas"
+" da proposta de especificação técnica de \"Regras de modelação de "
+"objetos\" disponível no manual de objetos BIM `SECClass "
+"<https://bit.ly/secclass_manual_objetos_bim>`_. A entidade fornecedora "
+"líder deverá explanar os princípios adotados para a nomenclatura no BEP."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:187
+msgid "Sistema de unidades"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:189
+msgid ""
+"``Sistema de Unidades Internacional`` em coerência com a Diretiva "
+"80/181/EEC e respectivas adendas. EN ISO 80000-1:2022. A unidade "
+"monetária é o ``€``."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:192
+msgid "Sistema de coordenadas"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:194
+msgid ""
+"Será utilizado o sistema de coordenadas ``PT-TM06/ETRS89`` (EPSG: 3763), "
+"seguindo as especificações da `DGT "
+"<https://www.dgterritorio.gov.pt/geodesia/sistemas-referencia/portugal-"
+"continental/PT-TM06-ETRS89>`_."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:198
+msgid "Classificação da informação"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:200
+msgid ""
+"Sistema de classificação `SECClasS <https://secclass.pt/pesquisa/>`_ na "
+"versão em vigor à data de emissão deste documento."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:203
+msgid "Formato e tamanho dos blocos de informação"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:205
+msgid ""
+"Documentos e folhas de cálculo editáveis seguindo a norma ISO/IEC "
+"29500-1:2016 (sendo válidos por exemplo os formatos XLSX e DOCX)."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:207
+msgid "Ficheiros de levantamento em nuvens de pontos em ASTM E57."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:209
+msgid "Desenhos em formato editável DWG."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:211
+msgid ""
+"Documentos, folhas de cálculo e desenhos não editáveis em formato PDF "
+"seguindo a norma ISO 32000-2:2020."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:213
+msgid ""
+"Modelos no formato proprietário da plataforma utilizada, a entregar no "
+"final de cada fase."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:215
+msgid ""
+"Modelos em IFC 4.0.2.1 (IFC4 ADD2 TC1) ISO 16739-1:2018. Máximo de 300 MB"
+" por bloco de informação independente."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:217
+msgid "Imagens em formato JPG ou PNG (resolução 1080p ou 4K)."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:219
+msgid "Vídeos em formato MP4 (resolução 1080p ou 4K)."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:221
+msgid "Trocas de pedidos de informação nos modelos em BCF."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:225
+msgid "Software - entidades fornecedoras"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:227
+msgid ""
+"Não há requisitos para os software a utilizar pelas entidades "
+"fornecedoras. Os software a usar serão validados em fase de aprovação do "
+"BEP."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:230
+msgid "Plataformas e software da entidade requerente"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:232
+msgid ""
+"A Entidade Requerente irá utilizar o software "
+"``<NomeDoSoftwareDeVizualização/VerificaçãoIFC>`` para visualizar, "
+"verificar e validar blocos de informação IFC. A entidade fornecedora "
+"líder deverá verificar o bom desempenho dos blocos de informação IFC "
+"nesta plataforma e informar de antemão sobre potenciais problemas na "
+"interpretação dos IFCs submetidos."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:234
+msgid ""
+"O CDE a utilizar será mantido nos servidores da entidade requerente e "
+"consistirá na solução CDE ``R2U``\\*."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:236
+msgid "Todos os BCFs serão geridos de forma centralizada no CDE ``R2U``."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:238
+msgid ""
+"\\* CDE ``R2U`` é um software aberto e gratuito preparado pela "
+"Universidade do Minho"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:241
+msgid "Informação para o período operacional de gestão de ativos"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:243
+msgid ""
+"Sem requisitos específicos na fase de projeto para além da classificação "
+"já requerida. Essa informação será requerida na fase de consulta da "
+"empreitada."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:246
+msgid "Métodos e procedimentos de produção de informação do projeto"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:248
+msgid ""
+"Os métodos e procedimentos de produção de informação do projeto definem "
+"as abordagens e técnicas que a entidade requerente utiliza para criar, "
+"gerir e aprovar a informação."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:251
+msgid "Captura de informação de ativos existentes"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:253
+msgid ""
+"Não havendo qualquer tipo de construção prévia no local e estando "
+"disponível o levantamento topográfico atualizado nas Informações de "
+"Referência (e cumpridor das prescrições da Câmara Municipal de Lisboa), "
+"não se prevê a necessidade de nenhuma captura de informação deste tipo."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:255
+msgid ""
+"Há necessidade de levantamento da envolvente através de métodos que "
+"permitam uma acuidade de informação suficiente para o processo de "
+"licenciamento e para análises de sombreamentos e oclusões."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:257
+msgid ""
+"As entidades fornecedoras ficarão responsáveis pela definição dos "
+"requisitos a solicitar para elaboração do relatório geológico-geotécnico "
+"necessário ao projeto de estabilidade. A entidade requerente fará a "
+"adjudicação e contratação independente dos trabalhos relacionados com a "
+"elaboração do relatório geológico-geotécnico."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:260
+msgid "Criação, revisão e aprovação de nova informação"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:262
+msgid "**a) Criação de informação**"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:264
+msgid ""
+"A produção de modelos nativos e dados associados devem permitir a criação"
+" de modelos em IFC. Não deverão ser usados objetos Proxy quando exista "
+"uma classe de objeto específica para o efeito no SCHEMA IFC."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:266
+msgid ""
+"A equipa de projeto deverá definir uma origem do referencial local de "
+"coordenadas do projeto que seja comum a todos os modelos."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:268
+msgid ""
+"O referencial local poderá ter rotação em relação ao Norte do sistema de "
+"coordenadas, estabelecendo-se essa rotação no Plano de Execução BIM com a"
+" respetiva justificação."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:270
+msgid ""
+"A origem do referencial local de coordenadas do projeto deve ser "
+"identificada com um elemento geométrico com designação “OrigemDeProjeto”:"
+" pirâmide quadrangular invertida com 0.5m de base e 1m altura, e vértice "
+"inferior coincidente com a origem."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:272
+msgid ""
+"Adicionalmente, poderá também existir um segundo ponto (com designação "
+"“Marco”) com as mesmas características e com coordenadas locais (1,1,0)."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:274
+msgid ""
+"Todos os modelos, de todas as especialidades, devem seguir uma "
+"determinação comum de cotas e nomenclatura de pisos."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:276
+msgid ""
+"Os objetos de espaço deverão conter informação consistente sobre o tipo, "
+"a função e a numeração do compartimento."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:278
+msgid ""
+"Todas as instâncias de objetos deverão estar atribuídas ao piso correto "
+"do edifício conforme o andar em que estão localizadas."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:280
+msgid ""
+"Instâncias de objetos com propriedades diferentes, p. ex., propriedades "
+"externas/internas, estruturais/não estruturais, deverão ser divididas em "
+"diferentes instâncias. Por exemplo, uma parede que passa do interior para"
+" o exterior deverá ser dividida na envolvente do edifício."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:282
+msgid ""
+"Para a produção dos mapas de trabalhos e quantidades deve ser utilizado o"
+" sistema de classificação definido neste documento, contudo há a "
+"possibilidade da entidade fornecedora líder propor uma granularidade "
+"adicional do sistema de classificação no seu BEP."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:284
+msgid ""
+"Os modelos entregues em IFC não devem conter duplicações de elementos "
+"entre especialidades distintas. Situações excepcionais deverão ser "
+"devidamente enquadradas e justificadas no BEP."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:286
+msgid ""
+"A estrutura dos modelos IFC deverá ser uniforme entre todas as "
+"disciplinas, cumprindo a nomenclatura de acordo com a seguinte tabela:"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:291
+msgid "Entidade IFC"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:292
+msgid "Nomenclatura"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:294
+msgid "IfcProject"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:295
+msgid "OpenBIMGarden"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:297
+msgid "-- IfcSite"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:298
+msgid "Arroios"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:300
+msgid "---- IfcBuilding"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:301
+msgid "OpenBIMGarden01"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:303
+#: ../../_files/criteriosAceitacao.rst:306
+#: ../../_files/criteriosAceitacao.rst:309
+#: ../../_files/criteriosAceitacao.rst:312
+#: ../../_files/criteriosAceitacao.rst:315
+#: ../../_files/criteriosAceitacao.rst:318
+#: ../../_files/criteriosAceitacao.rst:321
+#: ../../_files/criteriosAceitacao.rst:324
+#: ../../_files/criteriosAceitacao.rst:327
+msgid "------ IfcBuildingStorey"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:304
+msgid "S02"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:307
+msgid "S01"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:310
+msgid "P00"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:313
+msgid "P01"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:316
+#: ../../_files/criteriosAceitacao.rst:319
+msgid "P02"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:322
+msgid "P03"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:325
+msgid "P04"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:328
+msgid "C05"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:330
+msgid ""
+"Poderão ser efetuadas algumas alterações na fase de projeto, a ser "
+"proposta pela entidade fornecedora líder."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:332
+msgid ""
+"O BEP pós-contrato deverá indicar a cota de cada IfcBuildingStorey, assim"
+" como, a sua elevação em relação ao 0,00 do projeto. Todas as disciplinas"
+" deverão seguir estas mesmas altimetrias."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:334
+msgid ""
+"São admitidos pisos auxiliares de trabalho nos modelos nativos, mas estes"
+" não poderão ser exportados para os modelos em formato IFC."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:336
+msgid ""
+"Os modelos IFC deverão ter sempre os objetos alocados ao "
+"IfcBuildingStorey correspondente."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:338
+msgid ""
+"No caso de desenhos editáveis, deverão ter o formato DWG quando gerados "
+"em CAD. No caso de desenhos gerados a partir de plataformas BIM, esta "
+"exigência aplica-se apenas no final de cada fase, como entregável. Não se"
+" coloca exigência de fidedignidade ao nível da formatação dos DWG aos PDF"
+" dos desenhos, dado que são meros documentos de trabalho."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:340
+msgid "**b) Coordenação**"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:342
+msgid ""
+"A coordenação dos modelos deve ser realizada regularmente. Cada equipa de"
+" trabalho deve realizar a coordenação dos seus próprios modelos como "
+"parte do seu processo de garantia da qualidade, antes de partilhar a "
+"informação com a equipa de desenvolvimento. As trocas de "
+"informação/esclarecimento relativas a modelos BIM entre a entidade "
+"requerente e a entidade fornecedora líder deveram preferencialmente ser "
+"efetuadas com recurso a ficheiros BCF no CDE."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:344
+msgid ""
+"Toda troca de informação entre equipas de trabalho da mesma especialidade"
+" deve ocorrer dentro da sua respetiva pasta no estado *Trabalho em Curso*"
+" do Ambiente Comum de Dados. A organização e periodicidade destas trocas "
+"é determinada pela Entidade Fornecedora Líder referente à sua equipa de "
+"desenvolvimento."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:346
+msgid ""
+"As informações produzidas por cada Entidade Fornecedora devem ser apenas "
+"partilhadas com outras Entidades Fornecedoras quando já coordenadas "
+"dentro de cada equipa de desenvolvimento. As trocas de informações entre "
+"diferentes entidades fornecedoras ocorrem no estado *Partilhado* do "
+"Ambiente Comum de Dados. Define-se a periodicidade máxima de 15 dias para"
+" atualização dos modelos no CDE, com pelo menos estado S2."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:348
+msgid "**c) Revisão e aprovação da informação**"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:350
+msgid ""
+"Cada equipa de trabalho deve efetuar uma verificação da garantia de "
+"qualidade de cada bloco de informação, antes de efetuar a revisão da "
+"informação nele contida."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:352
+msgid ""
+"O processo de revisão e aprovação da informação segue o fluxo ilustrado "
+"na figura a seguir:"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:354
+msgid "Processo de revisão e aprovação da informação"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:357
+msgid ""
+"Os itens a serem considerados na revisão, bem como KPI's e checklist "
+"estão detalhados na :ref:`ref-tabela-aceitacao`."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:360
+msgid "Entrega da informação à entidade requerente"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:362
+msgid ""
+"As entregas finais serão realizadas utilizando a solução CDE determinada "
+"anteriormente."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:364
+msgid ""
+"Os entregáveis finais devem passar ao estado S5 (:ref:`ref-tabela-B1`) "
+"quando se encontrarem finalizados dentro das datas determinadas na secção"
+" 5."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:370
+msgid ""
+"Os métodos e tecnologias de trabalho digitais colaborativos utilizados no"
+" projeto, envolvem a partilha colaborativa de informação por um conjunto "
+"de atores independentes, surgindo, portanto, a necessidade de gerir as "
+"questões de vulnerabilidade inerentes à disponibilidade da informação de "
+"acordo com os requisitos da EN ISO 19650-5. Assim, a Entidade Requerente "
+"realizou a avaliação de sensibilidade, com vista à identificação da "
+"necessidade, ou não, de uma abordagem de segurança e aplicou o processo "
+"de triagem o qual conduziu à classificação ST4."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:372
+msgid ""
+"Esta classificação permitiu concluir que neste projeto, não haverá "
+"necessidade de desenvolver uma estratégia de segurança, respetivo plano "
+"de segurança, planos de gestão de falhas e incidentes e acordos de "
+"partilha de informação com entidades fornecedoras. No entanto, devem ser "
+"protegidas as informações comerciais e pessoais de acordo com a "
+"legislação em vigor, nomeadamente o RGPD. Devem, ainda, ser tomadas "
+"medidas adequadas para minimizar as ameaças decorrentes de atividades "
+"fraudulentas e outras atividades criminosas e incidentes de "
+"cibersegurança."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:375
+#: ../../_files/criteriosAceitacao.rst:379
+msgid "Tabela de aceitação"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:382
+msgid "Critério de aceitação\\*"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:383
+msgid "Nota"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:386
+msgid "Não Aplicável"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:387
+msgid "NA"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:388
+msgid "Requisito não aplicável numa fase ou para um determinado projecto"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:390
+msgid "Não Cumpre"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:391
+msgid "0"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:392
+msgid ""
+"Não cumpre critérios do BEP; Em alguns casos como os Levels, as Grids e a"
+" Orientação / Sistema de Coordenadas, não existem gradações intermédias: "
+"aplica-se apenas o 0 ou o 3"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:394
+msgid "Cumpre Parcialmente"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:395
+msgid "1"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:396
+msgid ""
+"Maioria dos blocos de informação não está de acordo com o BEP; "
+"Classificação não é suficiente para aprovação"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:398
+msgid "Cumpre Substancialmente"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:399
+msgid "2"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:400
+msgid ""
+"Maioria dos blocos de informação está de acordo com o BEP; Classificação "
+"suficiente para aprovação condicional"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:402
+msgid "Cumpre Totalmente"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:403
+msgid "3"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:404
+msgid "Todos os blocos de informação estão de acordo com o BEP"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:406
+msgid ""
+"\\* Nota mínima para aceitação é 2; Esta nota pode ser ponderada em "
+"função do contexto, fase de projecto ou especialidade e ser justificada "
+"nos comentários"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:409
+msgid "Apreciação global"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:414
+#: ../../_files/criteriosAceitacao.rst:522
+#: ../../_files/criteriosAceitacao.rst:559
+msgid "Ref."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:415 ../../_files/datasMilestones.rst:13
+msgid "EIR"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:416
+#: ../../_files/criteriosAceitacao.rst:523
+#: ../../_files/criteriosAceitacao.rst:560
+msgid "Título"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:419
+#: ../../_files/criteriosAceitacao.rst:526
+msgid "A"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:420 ../../_files/datasMilestones.rst:20
+#: ../../_files/requisitosInformacao.rst:123
+msgid "EIR01"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:421
+msgid "Levantamento de condicionantes"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:422
+msgid "Entrega do resumo das condicionantes identificadas."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:424
+#: ../../_files/criteriosAceitacao.rst:431
+#: ../../_files/criteriosAceitacao.rst:438
+#: ../../_files/criteriosAceitacao.rst:445
+#: ../../_files/criteriosAceitacao.rst:452
+#: ../../_files/criteriosAceitacao.rst:468
+#: ../../_files/criteriosAceitacao.rst:475
+#: ../../_files/criteriosAceitacao.rst:482
+#: ../../_files/criteriosAceitacao.rst:489
+#: ../../_files/criteriosAceitacao.rst:496
+#: ../../_files/criteriosAceitacao.rst:503
+#: ../../_files/criteriosAceitacao.rst:510
+msgid ""
+"Informação fornecida de acordo com as normas e métodos e procedimentos de"
+" produção de informação do projeto."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:426
+#: ../../_files/criteriosAceitacao.rst:530
+msgid "B"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:427 ../../_files/datasMilestones.rst:22
+#: ../../_files/requisitosInformacao.rst:126
+msgid "EIR02"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:428
+msgid "Levantamento do terreno e envolvente"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:429
+msgid "Entrega da nuvem de pontos."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:433
+#: ../../_files/criteriosAceitacao.rst:534
+msgid "C"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:434 ../../_files/datasMilestones.rst:24
+#: ../../_files/requisitosInformacao.rst:129
+msgid "EIR03"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:435
+msgid "Estudo geológico-geotécnico"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:436
+msgid "Entrega do relatório geológico-geotécnico."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:440
+#: ../../_files/criteriosAceitacao.rst:538
+msgid "D"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:441 ../../_files/datasMilestones.rst:26
+#: ../../_files/datasMilestones.rst:45 ../../_files/datasMilestones.rst:73
+#: ../../_files/datasMilestones.rst:103
+#: ../../_files/requisitosInformacao.rst:132
+msgid "EIR04"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:442
+msgid "Modelação"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:443
+msgid "Entrega dos modelos nos formatos definidos nas normas de informação."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:447
+#: ../../_files/criteriosAceitacao.rst:542
+msgid "E"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:448 ../../_files/datasMilestones.rst:65
+#: ../../_files/datasMilestones.rst:95 ../../_files/datasMilestones.rst:123
+#: ../../_files/requisitosInformacao.rst:137
+msgid "EIR05"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:449
+msgid "Coordenação dos modelos"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:450
+msgid "Relatório de ausência de colisões (ou colisões com devida justificação)."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:454
+#: ../../_files/criteriosAceitacao.rst:546
+msgid "F"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:455 ../../_files/datasMilestones.rst:68
+#: ../../_files/datasMilestones.rst:98 ../../_files/datasMilestones.rst:126
+#: ../../_files/requisitosInformacao.rst:140
+msgid "EIR06"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:456
+msgid "Coordenação BIM"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:457
+msgid ""
+"Presença regular em reuniões de coordenação BIM e projeto coordenado com "
+"restantes especialidades."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:459
+msgid ""
+"Colisões identificadas, comunicadas e resolvidas de acordo com processo "
+"descrito no EIR 06."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:461
+msgid "Modelo federado com regularidade."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:463
+#: ../../_files/criteriosAceitacao.rst:550
+msgid "G"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:464 ../../_files/datasMilestones.rst:75
+#: ../../_files/datasMilestones.rst:105
+#: ../../_files/requisitosInformacao.rst:143
+msgid "EIR07"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:465
+msgid "Peças Desenhadas"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:466
+msgid "Entrega de peças desenhadas extraídas dos modelos."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:470
+#: ../../_files/criteriosAceitacao.rst:563
+msgid "H"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:471 ../../_files/datasMilestones.rst:47
+#: ../../_files/datasMilestones.rst:77
+#: ../../_files/requisitosInformacao.rst:146
+msgid "EIR08"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:472
+msgid "Simulações energéticas e certificação"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:473
+msgid "Entrega do relatório e certificado energético."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:477
+#: ../../_files/criteriosAceitacao.rst:567
+msgid "I"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:478 ../../_files/datasMilestones.rst:28
+#: ../../_files/datasMilestones.rst:49 ../../_files/datasMilestones.rst:79
+#: ../../_files/requisitosInformacao.rst:151
+msgid "EIR09"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:479
+msgid "Análise de sustentabilidade BREEAM"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:480
+msgid ""
+"Entrega do relatório da análise, garantindo a classificação final \"Very "
+"Good\"."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:484
+#: ../../_files/criteriosAceitacao.rst:571
+msgid "J"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:485 ../../_files/datasMilestones.rst:30
+#: ../../_files/datasMilestones.rst:51 ../../_files/datasMilestones.rst:81
+#: ../../_files/datasMilestones.rst:107
+#: ../../_files/requisitosInformacao.rst:156
+msgid "EIR10"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:486
+msgid "Estimativa de quantidades e custos"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:487
+msgid "Entrega das estimativas de quantidades extraídas dos modelos."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:491
+#: ../../_files/criteriosAceitacao.rst:579
+msgid "L"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:492 ../../_files/datasMilestones.rst:109
+#: ../../_files/requisitosInformacao.rst:161
+msgid "EIR11"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:493
+msgid "Compilação de modelos"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:494
+msgid "Entrega de todos os modelos e respetivas peças desenhadas e escritas."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:498
+#: ../../_files/criteriosAceitacao.rst:583
+msgid "M"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:499 ../../_files/datasMilestones.rst:111
+#: ../../_files/requisitosInformacao.rst:164
+msgid "EIR12"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:500
+msgid "Mapas de trabalhos e quantidades"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:501
+msgid ""
+"Medições extraídas dos modelos / confirmar que medições são coerentes com"
+" o MQT."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:505
+#: ../../_files/criteriosAceitacao.rst:587
+msgid "N"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:506 ../../_files/datasMilestones.rst:113
+#: ../../_files/requisitosInformacao.rst:169
+msgid "EIR13"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:507
+msgid "Elaboração do plano de Segurança e Saúde e Compilação Técnica da Obra"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:508
+msgid ""
+"Entrega do plano de Segurança e Saúde e início da Compilação Técnica da "
+"Obra."
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:514
+msgid "Qualidade do Modelo"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:516
+msgid "**a) Geometria**"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:527
+msgid "Apreciação geral"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:528
+msgid "Modelo"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:531
+msgid "Origem / Sistema de Coordenadas"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:532
+msgid "Coordenadas georeferenciadas e Prisma invertido presente no ficheiro"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:535
+msgid "Orientação"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:536
+msgid "Orientado a Norte"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:539
+msgid "Eixos Estruturais"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:540
+msgid "Eixos estruturais coordenados com ficheiro base (IfcGrid)"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:543
+msgid "Pisos"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:544
+msgid "Níveis coordenados com ficheiro base (IfcBuidlingStorey)"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:547
+msgid "Duplicações"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:548
+msgid "Não existem duplicações"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:551
+msgid "Requisitos minímos de informação geométrica"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:552
+msgid ""
+"Detalhe, Dimensão, Localização, Aparência e Comportamento Paramétrico de "
+"acordo com Level of Information Need"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:554
+msgid "**b) Informação não gráfica**"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:564
+msgid "Espaços / Areas"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:565
+msgid "Cada compartimento identificado como IfcSpace"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:568
+msgid "Nomenclatura dos Blocos de Informação - Ficheiros"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:569
+msgid "Ficheiros cumprem nomenclatura"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:572
+msgid "Blocos de Informação entregues na CDE"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:573
+msgid "Todos os ficheiros foram colocados na CDE; incluí Ifc e ficheiros nativos"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:575
+msgid "K"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:576
+msgid "Unidades"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:577
+msgid "Sistema de unidades de acordo com definido no BEP"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:580
+msgid "Atributos (Ifc)"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:581
+msgid ""
+"Objectos mapeados para as Class e Type IFC certas (evitar objectos "
+"classificados como IfcBuildingElementProxy)"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:584
+msgid "Propriedades (Ifc)"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:585
+msgid "Modelo cumpre requisitos de informação do Level of Information Need"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:588
+msgid "Materiais"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:589
+msgid "Materiais cumprem requisitos do Level of Information Need"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:591
+msgid "O"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:592
+#: ../../_files/informacaoSuporte.rst:18 ../../_files/informacaoSuporte.rst:81
+#: ../../_files/loin/arquitetura/Classificacao.rst:2
+msgid "Classificação"
+msgstr ""
+
+#: ../../_files/criteriosAceitacao.rst:593
+msgid "Objectos classificados de acordo com sistema SECClasS"
+msgstr ""
+
+#: ../../_files/datasMilestones.rst:2
+msgid "Datas, marcos de entrega de informação e pontos-chave de decisão"
+msgstr ""
+
+#: ../../_files/datasMilestones.rst:4
+msgid "Em fase de concurso os concorrentes devem entregar:"
+msgstr ""
+
+#: ../../_files/datasMilestones.rst:6
+msgid ""
+"O ``BEP`` pré contrato EN ISO 19650 e especificação nacional, incluindo "
+"matriz RACI e demonstração de capacidade"
+msgstr ""
+
+#: ../../_files/datasMilestones.rst:7
+msgid ""
+"A ``matriz de apoio à pontuação dos Candidatos`` ('Formulário de apoio à "
+"avaliação de candidatos') do 'Guia de Contratação' da CT197"
+msgstr ""
+
+#: ../../_files/datasMilestones.rst:8
+msgid "A ``proposta de honorários``"
+msgstr ""
+
+#: ../../_files/datasMilestones.rst:14
+msgid "Data de entrega do entregável"
+msgstr ""
+
+#: ../../_files/datasMilestones.rst:15 ../../_files/glossario.rst:180
+msgid "Ponto-chave de decisão"
+msgstr ""
+
+#: ../../_files/datasMilestones.rst:16
+msgid "Data de entrega do resultado do ponto-chave de decisão"
+msgstr ""
+
+#: ../../_files/datasMilestones.rst:18
+msgid ":cspan:`3` Estudo prévio"
+msgstr ""
+
+#: ../../_files/datasMilestones.rst:32
+msgid "02/04/2024"
+msgstr ""
+
+#: ../../_files/datasMilestones.rst:34 ../../_files/datasMilestones.rst:55
+#: ../../_files/datasMilestones.rst:85
+msgid "(10 dias antes da tomada de decisão)"
+msgstr ""
+
+#: ../../_files/datasMilestones.rst:36
+msgid "Ponto de decisão 2:"
+msgstr ""
+
+#: ../../_files/datasMilestones.rst:38 ../../_files/requisitosInformacao.rst:81
+msgid ""
+"Decisão sobre o nível de certificação BREEAM que realmente se pretende "
+"tendo em conta objetivos de desempenho e limites orçamentais."
+msgstr ""
+
+#: ../../_files/datasMilestones.rst:39 ../../_files/requisitosInformacao.rst:82
+msgid ""
+"Decisão sobre continuidade do investimento e eventuais adaptações aos "
+"objetivos estratégicos."
+msgstr ""
+
+#: ../../_files/datasMilestones.rst:41
+msgid "12/04/2024"
+msgstr ""
+
+#: ../../_files/datasMilestones.rst:43
+msgid "(7 semanas antes do fim da fase)"
+msgstr ""
+
+#: ../../_files/datasMilestones.rst:53
+msgid "21/08/2024"
+msgstr ""
+
+#: ../../_files/datasMilestones.rst:57 ../../_files/datasMilestones.rst:87
+#: ../../_files/datasMilestones.rst:117
+msgid "Pontos de decisão 3:"
+msgstr ""
+
+#: ../../_files/datasMilestones.rst:59
+msgid "Decisão sobre aprovação final de fase com eventuais alterações."
+msgstr ""
+
+#: ../../_files/datasMilestones.rst:61
+msgid "31/08/2024"
+msgstr ""
+
+#: ../../_files/datasMilestones.rst:63 ../../_files/datasMilestones.rst:93
+msgid "(fim da fase)"
+msgstr ""
+
+#: ../../_files/datasMilestones.rst:66 ../../_files/datasMilestones.rst:96
+#: ../../_files/datasMilestones.rst:124
+msgid ""
+":cspan:`2` Coordenação dos modelos realizada antes das reuniões de "
+"coordenação, devendo as comunicações dos resultados da coordenação  "
+"ocorrer no mínimo 2 dias úteis antes das reuniões de coordenação."
+msgstr ""
+
+#: ../../_files/datasMilestones.rst:69 ../../_files/datasMilestones.rst:99
+#: ../../_files/datasMilestones.rst:127
+msgid ""
+":cspan:`2` Reuniões de coordenação realizadas quinzenalmente (Com data de"
+" início a definir)"
+msgstr ""
+
+#: ../../_files/datasMilestones.rst:71
+msgid ":cspan:`3` Anteprojeto"
+msgstr ""
+
+#: ../../_files/datasMilestones.rst:83
+msgid "22/03/2024"
+msgstr ""
+
+#: ../../_files/datasMilestones.rst:89 ../../_files/datasMilestones.rst:119
+msgid "Decisão sobre aprovação final de fase com eventuais alterações"
+msgstr ""
+
+#: ../../_files/datasMilestones.rst:91
+msgid "01/04/2024"
+msgstr ""
+
+#: ../../_files/datasMilestones.rst:101
+msgid ":cspan:`3` Projeto de execução"
+msgstr ""
+
+#: ../../_files/datasMilestones.rst:115
+msgid "10 dias antes da tomada de decisão"
+msgstr ""
+
+#: ../../_files/datasMilestones.rst:121
+msgid "No final da fase."
+msgstr ""
+
+#: ../../_files/glossario.rst:2
+msgid "Glossário"
+msgstr ""
+
+#: ../../_files/glossario.rst:6
+msgid "Ambiente comum de dados"
+msgstr ""
+
+#: ../../_files/glossario.rst:9
+msgid "CDE (*Common Data Environment*)"
+msgstr ""
+
+#: ../../_files/glossario.rst:11
+msgid ""
+"Fonte de informação acordada para qualquer projeto ou ativo, para "
+"recolher, gerir e disseminar cada bloco de informação através de um "
+"processo estruturado."
+msgstr ""
+
+#: ../../_files/glossario.rst:13
+msgid ""
+"*NOTA 1: O fluxo de trabalho do CDE descreve os processos a serem usados "
+"e uma solução CDE permite disponibilizar a tecnologia para suportar esses"
+" processos.*"
+msgstr ""
+
+#: ../../_files/glossario.rst:14
+msgid "Ambiente, social e governação"
+msgstr ""
+
+#: ../../_files/glossario.rst:17
+msgid "ESG (Environmental Social and Governance)"
+msgstr ""
+
+#: ../../_files/glossario.rst:19
+msgid ""
+"Indicadores ambientais, sociais e de governação concebidos para avaliar o"
+" nível de comprometimento das organizações com os objetivos do "
+"desenvolvimento sustentável."
+msgstr ""
+
+#: ../../_files/glossario.rst:20
+msgid "Aptidão"
+msgstr ""
+
+#: ../../_files/glossario.rst:23
+msgid "Medida da habilidade para desempenho e funções."
+msgstr ""
+
+#: ../../_files/glossario.rst:25
+msgid ""
+"*NOTA 1: No contexto deste documento está relacionada com competências, "
+"conhecimento e especialização para gerir informação.*"
+msgstr ""
+
+#: ../../_files/glossario.rst:26
+msgid "Ativo"
+msgstr ""
+
+#: ../../_files/glossario.rst:29
+msgid ""
+"Item, coisa ou entidade, que tem valor potencial ou real para uma "
+"organização."
+msgstr ""
+
+#: ../../_files/glossario.rst:30
+msgid "Ator"
+msgstr ""
+
+#: ../../_files/glossario.rst:33
+msgid ""
+"Pessoa, organização ou unidade organizacional envolvida num processo de "
+"construção."
+msgstr ""
+
+#: ../../_files/glossario.rst:35
+msgid ""
+"*NOTA 1: As unidades organizacionais incluem, entre outros, departamentos"
+" e equipas.*"
+msgstr ""
+
+#: ../../_files/glossario.rst:37
+msgid ""
+"*NOTA 2: No contexto deste documento, os processos de construção ocorrem "
+"durante o período de desenvolvimento e o período operacional.*"
+msgstr ""
+
+#: ../../_files/glossario.rst:38
+msgid "Bloco de informação"
+msgstr ""
+
+#: ../../_files/glossario.rst:41
+msgid ""
+"Conjunto persistente de informação devidamente nomeado, que pode ser "
+"recuperado a partir de uma hierarquia de armazenamento de ficheiros, "
+"sistemas ou aplicações."
+msgstr ""
+
+#: ../../_files/glossario.rst:43
+msgid ""
+"*EXEMPLO: Incluindo subpasta, ficheiro de informação (incluindo modelo, "
+"documento, tabela, cronograma) ou distintos subconjuntos de um ficheiro "
+"de informação, como um capítulo ou secção, camada ou símbolo.*"
+msgstr ""
+
+#: ../../_files/glossario.rst:45
+msgid ""
+"*NOTA 1 : Os blocos de informação estruturados incluem modelos "
+"geométricos, planeamentos e bases de dados. Os blocos de informação não "
+"estruturados incluem documentação, videoclips e gravações sonoras.*"
+msgstr ""
+
+#: ../../_files/glossario.rst:47
+msgid ""
+"*NOTA 2 : As informações persistentes existem numa escala temporal "
+"suficientemente longa para terem de ser geridas, isto é, exclui "
+"informações transitórias como resultados de pesquisas na internet.*"
+msgstr ""
+
+#: ../../_files/glossario.rst:49
+msgid ""
+"*NOTA 3 : A nomeação de um bloco de informação deverá estar de acordo com"
+" uma convenção de nomenclatura acordada.*"
+msgstr ""
+
+#: ../../_files/glossario.rst:50
+msgid "Capacidade"
+msgstr ""
+
+#: ../../_files/glossario.rst:53
+msgid "Recursos disponíveis para a execução e funcionamento."
+msgstr ""
+
+#: ../../_files/glossario.rst:55
+msgid ""
+"*NOTA 1: No contexto deste documento, está relacionado com os recursos e "
+"procedimentos para gerir informação.*"
+msgstr ""
+
+#: ../../_files/glossario.rst:56
+msgid "Ciclo de vida"
+msgstr ""
+
+#: ../../_files/glossario.rst:59
+msgid ""
+"Vida do ativo desde a definição dos seus requisitos até ao final da sua "
+"vida útil, cobrindo a conceção, desenvolvimento, operação, manutenção e "
+"desmantelamento."
+msgstr ""
+
+#: ../../_files/glossario.rst:60
+msgid "Compromisso"
+msgstr ""
+
+#: ../../_files/glossario.rst:63
+msgid ""
+"Instruções acordadas para o fornecimento de informação sobre trabalhos, "
+"bens ou serviços."
+msgstr ""
+
+#: ../../_files/glossario.rst:65
+msgid ""
+"*NOTA 1: Este termo é usado quer haja, ou não, um compromisso formal "
+"entre as partes.*"
+msgstr ""
+
+#: ../../_files/glossario.rst:69
+msgid "Evidência necessária para considerar que os requisitos foram cumpridos."
+msgstr ""
+
+#: ../../_files/glossario.rst:70
+msgid "Entidade fornecedora"
+msgstr ""
+
+#: ../../_files/glossario.rst:73
+msgid "Fornecedor de informação sobre trabalhos, bens ou serviços."
+msgstr ""
+
+#: ../../_files/glossario.rst:75
+msgid ""
+"*NOTA 1: Para cada equipa de desenvolvimento deverá ser identificada uma "
+"entidade fornecedora líder, podendo ser a mesma organização de uma das "
+"equipas de trabalho.*"
+msgstr ""
+
+#: ../../_files/glossario.rst:77
+msgid ""
+"*NOTA 2: Este termo é usado independentemente de existir, ou não, um "
+"compromisso formal por escrito.*"
+msgstr ""
+
+#: ../../_files/glossario.rst:78
+msgid "Entidade requerente"
+msgstr ""
+
+#: ../../_files/glossario.rst:81
+msgid ""
+"Recetor de informação, sobre trabalhos, bens ou serviços, proveniente de "
+"uma entidade fornecedora líder."
+msgstr ""
+
+#: ../../_files/glossario.rst:83
+msgid ""
+"*NOTA 1: Em alguns países a entidade requerente pode ser denominada por "
+"cliente, empregador ou dono de obra, mas a entidade requerente não se "
+"limita a essas funções.*"
+msgstr ""
+
+#: ../../_files/glossario.rst:85
+msgid ""
+"*NOTA 2: Este termo é usado independentemente de existir, ou não, um "
+"compromisso formal entre as partes.*"
+msgstr ""
+
+#: ../../_files/glossario.rst:86
+msgid "Equipa de desenvolvimento"
+msgstr ""
+
+#: ../../_files/glossario.rst:89
+msgid "Entidade fornecedora líder e suas entidades fornecedoras."
+msgstr ""
+
+#: ../../_files/glossario.rst:91
+msgid ""
+"*NOTA 1: Uma equipa de desenvolvimento pode ter qualquer tamanho, desde "
+"uma pessoa que executa todas as funções necessárias até equipas de "
+"trabalho complexas e multidisciplinares. A dimensão e a estrutura de cada"
+" equipa de desenvolvimento dependem da escala e complexidade das "
+"atividades de gestão de ativos ou de desenvolvimento dos projetos.*"
+msgstr ""
+
+#: ../../_files/glossario.rst:93
+msgid ""
+"*NOTA 2: Várias equipas de desenvolvimento podem ser nomeadas "
+"simultaneamente e/ou sequencialmente em relação a um único ativo ou "
+"projeto, dependendo da escala e complexidade das atividades de gestão de "
+"ativos ou de desenvolvimento dos projetos.*"
+msgstr ""
+
+#: ../../_files/glossario.rst:95
+msgid ""
+"*NOTA 3: Uma equipa de desenvolvimento pode ser constituída por várias "
+"equipas de trabalho provenientes da organização da entidade fornecedora "
+"líder e de qualquer entidade fornecedora.*"
+msgstr ""
+
+#: ../../_files/glossario.rst:97
+msgid ""
+"*NOTA 4: Uma equipa de desenvolvimento pode ser criada pela entidade "
+"requerente em vez da entidade fornecedora líder.*"
+msgstr ""
+
+#: ../../_files/glossario.rst:98
+msgid "Equipa de projeto"
+msgstr ""
+
+#: ../../_files/glossario.rst:101
+msgid "Entidade requerente e todas as equipas de desenvolvimento."
+msgstr ""
+
+#: ../../_files/glossario.rst:102
+msgid "Equipa de trabalho"
+msgstr ""
+
+#: ../../_files/glossario.rst:105
+msgid "Indivíduos organizados para desenvolver um determinado trabalho."
+msgstr ""
+
+#: ../../_files/glossario.rst:106
+msgid "Espaço"
+msgstr ""
+
+#: ../../_files/glossario.rst:109
+msgid "Extensão tridimensional limitada e definida fisicamente ou nocionalmente."
+msgstr ""
+
+#: ../../_files/glossario.rst:110
+msgid "Federação"
+msgstr ""
+
+#: ../../_files/glossario.rst:113
+msgid ""
+"Criação de um modelo de informação a partir de blocos de informação "
+"separados."
+msgstr ""
+
+#: ../../_files/glossario.rst:115
+msgid ""
+"*NOTA 1: Os blocos de informação separados que são usados no âmbito da "
+"federação podem provir de diferentes equipas de trabalho.*"
+msgstr ""
+
+#: ../../_files/glossario.rst:116
+msgid "Informação"
+msgstr ""
+
+#: ../../_files/glossario.rst:119
+msgid ""
+"Representação reinterpretável de dados com uma forma adequada para "
+"comunicação, interpretação ou processamento."
+msgstr ""
+
+#: ../../_files/glossario.rst:121
+msgid ""
+"*NOTA 1: A informação pode ser processada por meios humanos ou "
+"automáticos.*"
+msgstr ""
+
+#: ../../_files/glossario.rst:122
+msgid "Informação de projeto"
+msgstr ""
+
+#: ../../_files/glossario.rst:125
+msgid "Informação produzida para, ou utilizada em, um projeto em particular."
+msgstr ""
+
+#: ../../_files/glossario.rst:126
+msgid "Marco de entrega de informação"
+msgstr ""
+
+#: ../../_files/glossario.rst:129
+msgid "Evento programado para uma troca de informação predefinida."
+msgstr ""
+
+#: ../../_files/glossario.rst:130
+msgid "Modelação de informação da construção"
+msgstr ""
+
+#: ../../_files/glossario.rst:133
+msgid "BIM (*Building Information Modelling*)"
+msgstr ""
+
+#: ../../_files/glossario.rst:135
+msgid ""
+"Uso de uma representação digital partilhada de um ativo construído para "
+"facilitar os processos de conceção, construção e operação, formando uma "
+"base confiável de apoio à decisão."
+msgstr ""
+
+#: ../../_files/glossario.rst:137
+msgid ""
+"NOTA 1: Ativos construídos incluem, mas não estão limitados a edifícios, "
+"pontes, vias de comunicação (rodoviárias, ferroviárias) e instalações "
+"industriais."
+msgstr ""
+
+#: ../../_files/glossario.rst:138
+msgid "Modelo de informação"
+msgstr ""
+
+#: ../../_files/glossario.rst:141
+msgid "Conjunto de blocos de informação estruturada e não estruturada."
+msgstr ""
+
+#: ../../_files/glossario.rst:142
+msgid "Modelo de informação do projeto"
+msgstr ""
+
+#: ../../_files/glossario.rst:145
+msgid "PIM (*Project Information Model*)"
+msgstr ""
+
+#: ../../_files/glossario.rst:147
+msgid "Modelo de informação relacionado com o período de desenvolvimento."
+msgstr ""
+
+#: ../../_files/glossario.rst:149
+msgid ""
+"*NOTA 1: Durante o projeto, o modelo de informação do projeto pode ser "
+"usado para transmitir a intenção da atividade do projetista (por vezes "
+"designado de modelo de intenção da atividade do projetista) ou a "
+"representação virtual do ativo a ser construído (por vezes designado de "
+"modelo virtual da construção). Neste documento são utilizados os  termos "
+"\"modelo\" ou \"modelo IFC\".*"
+msgstr ""
+
+#: ../../_files/glossario.rst:150
+msgid "Nível de informação necessário"
+msgstr ""
+
+#: ../../_files/glossario.rst:153
+msgid "Metodologia que define a extensão e granularidade da informação."
+msgstr ""
+
+#: ../../_files/glossario.rst:155
+msgid ""
+"*NOTA 1: Um dos propósitos da definição do nível de informação necessário"
+" é prevenir a entrega de demasiada informação.*"
+msgstr ""
+
+#: ../../_files/glossario.rst:166
+msgid "Perguntas em linguagem clara"
+msgstr ""
+
+#: ../../_files/glossario.rst:169
+msgid "PLQ (*Plain Language Questions*)"
+msgstr ""
+
+#: ../../_files/glossario.rst:171
+msgid ""
+"Perguntas formuladas em linguagem simples e clara, concebidas de modo a "
+"evitar jargão técnico ou linguagem complexa."
+msgstr ""
+
+#: ../../_files/glossario.rst:156
+msgid "Período de desenvolvimento"
+msgstr ""
+
+#: ../../_files/glossario.rst:159
+msgid ""
+"Parte do ciclo de vida durante a qual um ativo é projetado, construído e "
+"comissionado."
+msgstr ""
+
+#: ../../_files/glossario.rst:161
+msgid ""
+"*NOTA 1: O período de desenvolvimento normalmente reflete uma abordagem "
+"ao projeto baseada em fases.*"
+msgstr ""
+
+#: ../../_files/glossario.rst:162
+msgid "Período operacional"
+msgstr ""
+
+#: ../../_files/glossario.rst:165
+msgid "Parte do ciclo de vida durante a qual um ativo é usado, operado e mantido."
+msgstr ""
+
+#: ../../_files/glossario.rst:172
+msgid "Plano de execução BIM"
+msgstr ""
+
+#: ../../_files/glossario.rst:175
+msgid "BEP (*BIM Execution Plan*)"
+msgstr ""
+
+#: ../../_files/glossario.rst:177
+msgid ""
+"Plano que explica como serão realizados, pela equipa de desenvolvimento, "
+"os aspetos de gestão da informação do compromisso."
+msgstr ""
+
+#: ../../_files/glossario.rst:179
+msgid ""
+"*NOTA 1: O plano de execução BIM pré-compromisso foca-se na abordagem "
+"proposta pela equipa de desenvolvimento para a gestão da informação e na "
+"sua aptidão e capacidade para gerir a informação.*"
+msgstr ""
+
+#: ../../_files/glossario.rst:183
+msgid ""
+"Momento no tempo durante o ciclo de vida em que é tomada uma decisão "
+"crucial para a direção e viabilidade de um ativo."
+msgstr ""
+
+#: ../../_files/glossario.rst:185
+msgid ""
+"*NOTA 1: Durante o projeto estes momentos geralmente acontecem alinhados "
+"com as fases do projeto.*"
+msgstr ""
+
+#: ../../_files/glossario.rst:186
+msgid "Requisito de informação"
+msgstr ""
+
+#: ../../_files/glossario.rst:189
+msgid ""
+"Especificação de o quê, quando, como e para quem a informação será "
+"produzida."
+msgstr ""
+
+#: ../../_files/glossario.rst:190
+msgid "Requisitos de informação do projeto"
+msgstr ""
+
+#: ../../_files/glossario.rst:193
+msgid "PIR (*Project Information Requirements*)"
+msgstr ""
+
+#: ../../_files/glossario.rst:195
+msgid "Requisitos de informação relacionados com o desenvolvimento de um ativo."
+msgstr ""
+
+#: ../../_files/glossario.rst:196
+msgid "Requisitos de informação organizacional"
+msgstr ""
+
+#: ../../_files/glossario.rst:199
+msgid "OIR (*Organizational Information Requirements*)"
+msgstr ""
+
+#: ../../_files/glossario.rst:201
+msgid "Requisitos de informação relacionados com os objetivos organizacionais."
+msgstr ""
+
+#: ../../_files/glossario.rst:202
+msgid "Requisitos de troca de informação"
+msgstr ""
+
+#: ../../_files/glossario.rst:205
+msgid "EIR (*Exchange Information Requirements*)"
+msgstr ""
+
+#: ../../_files/glossario.rst:207
+msgid "Requisitos de informação relacionados com um compromisso."
+msgstr ""
+
+#: ../../_files/glossario.rst:208
+msgid "Trocar informação"
+msgstr ""
+
+#: ../../_files/glossario.rst:211
+msgid "Ato de satisfazer um requisito de informação ou parte deste."
+msgstr ""
+
+#: ../../_files/informacaoSuporte.rst:2
+msgid "Informação de suporte"
+msgstr ""
+
+#: ../../_files/informacaoSuporte.rst:4
+msgid ""
+"A informação de suporte consiste em informação que pretende ser "
+"disponibilizada pela entidade requerente à entidade fornecedora líder com"
+" o intuito de evitar trabalho redundante e garantir que a informação é "
+"desenvolvida de acordo com as suas normas. Possibilitando assim que a "
+"entidade fornecedora tenha uma maior compreensão sobre o que está a ser "
+"requerido para o projeto. De acordo com a cláusula 5.2.1 d) da EN ISO "
+"19650-2, a informação de suporte poderá consistir em informação existente"
+" de ativos, recursos partilhados, exemplos de entregáveis, documentos de "
+"suporte, material de orientação e referências para normas internacionais,"
+" nacionais ou da indústria."
+msgstr ""
+
+#: ../../_files/informacaoSuporte.rst:6
+msgid ""
+"A informação de suporte está disponível `aqui "
+"<https://drive.google.com/drive/folders/1JB1Rz85srkqedVM_9hqo3ANSmihxsILz?usp=sharing>`_."
+msgstr ""
+
+#: ../../_files/informacaoSuporte.rst:10
+msgid "Informação de referência"
+msgstr ""
+
+#: ../../_files/informacaoSuporte.rst:15 ../../_files/informacaoSuporte.rst:78
+msgid "Nomeclatura"
+msgstr ""
+
+#: ../../_files/informacaoSuporte.rst:16 ../../_files/informacaoSuporte.rst:79
+msgid "Estado"
+msgstr ""
+
+#: ../../_files/informacaoSuporte.rst:17 ../../_files/informacaoSuporte.rst:80
+msgid "Revisão"
+msgstr ""
+
+#: ../../_files/informacaoSuporte.rst:19 ../../_files/informacaoSuporte.rst:82
+msgid "Data"
+msgstr ""
+
+#: ../../_files/informacaoSuporte.rst:22
+msgid "OBG-BSP-ZZ-ZZZ-CE-XXX-XX-0001.pdf"
+msgstr ""
+
+#: ../../_files/informacaoSuporte.rst:23 ../../_files/informacaoSuporte.rst:30
+#: ../../_files/informacaoSuporte.rst:37 ../../_files/informacaoSuporte.rst:44
+#: ../../_files/informacaoSuporte.rst:51 ../../_files/informacaoSuporte.rst:58
+#: ../../_files/informacaoSuporte.rst:65 ../../_files/informacaoSuporte.rst:86
+#: ../../_files/informacaoSuporte.rst:93
+msgid "A1"
+msgstr ""
+
+#: ../../_files/informacaoSuporte.rst:24 ../../_files/informacaoSuporte.rst:31
+#: ../../_files/informacaoSuporte.rst:38 ../../_files/informacaoSuporte.rst:45
+#: ../../_files/informacaoSuporte.rst:52 ../../_files/informacaoSuporte.rst:59
+#: ../../_files/informacaoSuporte.rst:66 ../../_files/informacaoSuporte.rst:87
+#: ../../_files/informacaoSuporte.rst:94
+msgid "C01"
+msgstr ""
+
+#: ../../_files/informacaoSuporte.rst:25
+msgid "PM_40_50"
+msgstr ""
+
+#: ../../_files/informacaoSuporte.rst:26 ../../_files/informacaoSuporte.rst:33
+#: ../../_files/informacaoSuporte.rst:40 ../../_files/informacaoSuporte.rst:47
+#: ../../_files/informacaoSuporte.rst:54 ../../_files/informacaoSuporte.rst:61
+#: ../../_files/informacaoSuporte.rst:68 ../../_files/informacaoSuporte.rst:89
+#: ../../_files/informacaoSuporte.rst:96
+msgid "11.01.2024"
+msgstr ""
+
+#: ../../_files/informacaoSuporte.rst:27
+msgid "Requerimento"
+msgstr ""
+
+#: ../../_files/informacaoSuporte.rst:29
+msgid "OBG-BSP-ZZ-ZZZ-CE-XXX-XX-0002.pdf"
+msgstr ""
+
+#: ../../_files/informacaoSuporte.rst:32
+msgid "PM_40_50_49"
+msgstr ""
+
+#: ../../_files/informacaoSuporte.rst:34
+msgid "Procuração"
+msgstr ""
+
+#: ../../_files/informacaoSuporte.rst:36
+msgid "OBG-BSP-ZZ-ZZZ-CE-XXX-XX-0003.pdf"
+msgstr ""
+
+#: ../../_files/informacaoSuporte.rst:39
+msgid "PM_10_20_03"
+msgstr ""
+
+#: ../../_files/informacaoSuporte.rst:41
+msgid "Termo, seguro, declaração OA, topografia"
+msgstr ""
+
+#: ../../_files/informacaoSuporte.rst:43
+msgid "OBG-BSP-ZZ-ZZZ-LG-XXX-XX-0001.pdf"
+msgstr ""
+
+#: ../../_files/informacaoSuporte.rst:46
+msgid "PM_30_10_80"
+msgstr ""
+
+#: ../../_files/informacaoSuporte.rst:48
+msgid "Caderneta Predial Urbana"
+msgstr ""
+
+#: ../../_files/informacaoSuporte.rst:50
+msgid "OBG-BSP-ZZ-ZZZ-LG-XXX-XX-0002.pdf"
+msgstr ""
+
+#: ../../_files/informacaoSuporte.rst:53
+msgid "PM_55"
+msgstr ""
+
+#: ../../_files/informacaoSuporte.rst:55
+msgid "CRC"
+msgstr ""
+
+#: ../../_files/informacaoSuporte.rst:57
+msgid "OBG-BSP-ZZ-ZZZ-LG-XXX-XX-0003.pdf"
+msgstr ""
+
+#: ../../_files/informacaoSuporte.rst:60
+msgid "PM_30_10_47"
+msgstr ""
+
+#: ../../_files/informacaoSuporte.rst:62
+msgid "CRP"
+msgstr ""
+
+#: ../../_files/informacaoSuporte.rst:64
+msgid "OBG-BSP-ZZ-ZZZ-LV-LEV-XX-0001.dwf"
+msgstr ""
+
+#: ../../_files/informacaoSuporte.rst:67
+msgid "PM_30_20_89"
+msgstr ""
+
+#: ../../_files/informacaoSuporte.rst:69
+msgid "Levantamento topográfico"
+msgstr ""
+
+#: ../../_files/informacaoSuporte.rst:73
+msgid "Recursos partilhados"
+msgstr ""
+
+#: ../../_files/informacaoSuporte.rst:85
+msgid "OBG-BSP-ZZ-ZZZ-RL-XXX-XX-0001.docx"
+msgstr ""
+
+#: ../../_files/informacaoSuporte.rst:88 ../../_files/informacaoSuporte.rst:95
+msgid "FI_90_88"
+msgstr ""
+
+#: ../../_files/informacaoSuporte.rst:90
+msgid "Modelo para produção de relatórios"
+msgstr ""
+
+#: ../../_files/informacaoSuporte.rst:92
+msgid "OBG-BSP-ZZ-ZZZ-RL-XXX-XX-0002.dwg"
+msgstr ""
+
+#: ../../_files/informacaoSuporte.rst:97
+msgid "Modelo de folha de rosto"
+msgstr ""
+
+#: ../../_files/introducao.rst:2
+msgid "Introdução"
+msgstr ""
+
+#: ../../_files/introducao.rst:4
+msgid ""
+"Este documento é um exemplo de um EIR (requisitos de troca de informação "
+"da entidade requerente) para a fase de projeto de um edifício multi-"
+"familiar em Lisboa, satisfazendo a EN ISO 19650-2:2018. Trata-se de um "
+"exemplo concreto aplicado a uma situação fictícia e pretende ser uma "
+"ilustração de boas práticas na contratação BIM em fase de projeto. "
+"Inerentemente à sua natureza, este é um documento que sofrerá vários "
+"melhoramentos ao longo do tempo. Disponibiliza-se a versão web no link "
+"https://github.com/buildingSMART-Portugal/EIR (atualizada em permanência)"
+" e a versão PDF (atualizada periodicamente)."
+msgstr ""
+
+#: ../../_files/loin/arquitetura/Classificacao.rst:12
+msgid "**Classe**"
+msgstr ""
+
+#: ../../_files/loin/arquitetura/Classificacao.rst:13
+msgid "Sistema de classificação"
+msgstr ""
+
+#: ../../_files/loin/arquitetura/Classificacao.rst:15
+msgid "**Ator requerente**"
+msgstr ""
+
+#: ../../_files/loin/arquitetura/Classificacao.rst:16
+msgid "Dono de Obra"
+msgstr ""
+
+#: ../../_files/loin/arquitetura/Classificacao.rst:18
+msgid "**Ator fornecedor**"
+msgstr ""
+
+#: ../../_files/loin/arquitetura/Classificacao.rst:19
+msgid "Todos"
+msgstr ""
+
+#: ../../_files/loin/arquitetura/Classificacao.rst:25
+msgid ":rspan:`1`"
+msgstr ""
+
+#: ../../_files/loin/arquitetura/Classificacao.rst:26
+msgid ":cspan:`2` FASE DE PROJETO / MARCO DE ENTREGA:"
+msgstr ""
+
+#: ../../_files/loin/arquitetura/Classificacao.rst:29
+msgid "Projeto de Licenciamento"
+msgstr ""
+
+#: ../../_files/loin/arquitetura/Classificacao.rst:30
+msgid "Projeto de Execução"
+msgstr ""
+
+#: ../../_files/loin/arquitetura/Classificacao.rst:32
+msgid "Proposito"
+msgstr ""
+
+#: ../../_files/loin/arquitetura/Classificacao.rst:33
+msgid "*Análise da solução conceptual*"
+msgstr ""
+
+#: ../../_files/loin/arquitetura/Classificacao.rst:35
+#: ../../_files/loin/arquitetura/Classificacao.rst:46
+msgid "*Gerar de peças desenhadas*"
+msgstr ""
+
+#: ../../_files/loin/arquitetura/Classificacao.rst:37
+#: ../../_files/loin/arquitetura/Classificacao.rst:41
+#: ../../_files/loin/arquitetura/Classificacao.rst:48
+msgid "*Visualização / Renderização*"
+msgstr ""
+
+#: ../../_files/loin/arquitetura/Classificacao.rst:39
+msgid "*Gerar de peças desenhadas"
+msgstr ""
+
+#: ../../_files/loin/arquitetura/Classificacao.rst:43
+msgid ""
+"*Obtenção das licenças, permissões e autorizações para a execução do "
+"ativo*"
+msgstr ""
+
+#: ../../_files/loin/arquitetura/Classificacao.rst:45
+#: ../../_files/loin/arquitetura/Classificacao.rst:50
+msgid "*Coordenação 3D*"
+msgstr ""
+
+#: ../../_files/loin/arquitetura/Classificacao.rst:52
+msgid "*Extração de quantidades e orçamentação*"
+msgstr ""
+
+#: ../../_files/loin/arquitetura/Classificacao.rst:54
+msgid "Referências EIR"
+msgstr ""
+
+#: ../../_files/loin/arquitetura/Classificacao.rst:55
+msgid "EIR 01, EIR 04, EIR 05, EIR 07 e EIR 10"
+msgstr ""
+
+#: ../../_files/loin/arquitetura/Classificacao.rst:56
+msgid "EIR 01, EIR 04, EIR 05, EIR 06, EIR 07, EIR 09 e EIR 10"
+msgstr ""
+
+#: ../../_files/loin/arquitetura/Classificacao.rst:57
+msgid "EIR 04, EIR 05, EIR 06, EIR 07, EIR 09, EIR 10, EIR 11 e EIR 12"
+msgstr ""
+
+#: ../../_files/loin/arquitetura/Classificacao.rst:59
+msgid "Requisitos mínimos de informação geométrica"
+msgstr ""
+
+#: ../../_files/loin/arquitetura/Classificacao.rst:64
+msgid "Detalhe"
+msgstr ""
+
+#: ../../_files/loin/arquitetura/Classificacao.rst:65
+#: ../../_files/loin/arquitetura/Classificacao.rst:66
+#: ../../_files/loin/arquitetura/Classificacao.rst:67
+#: ../../_files/loin/arquitetura/Classificacao.rst:70
+#: ../../_files/loin/arquitetura/Classificacao.rst:71
+#: ../../_files/loin/arquitetura/Classificacao.rst:72
+#: ../../_files/loin/arquitetura/Classificacao.rst:75
+#: ../../_files/loin/arquitetura/Classificacao.rst:76
+#: ../../_files/loin/arquitetura/Classificacao.rst:77
+#: ../../_files/loin/arquitetura/Classificacao.rst:80
+#: ../../_files/loin/arquitetura/Classificacao.rst:81
+#: ../../_files/loin/arquitetura/Classificacao.rst:82
+#: ../../_files/loin/arquitetura/Classificacao.rst:85
+#: ../../_files/loin/arquitetura/Classificacao.rst:86
+#: ../../_files/loin/arquitetura/Classificacao.rst:87
+msgid "Não requerido"
+msgstr ""
+
+#: ../../_files/loin/arquitetura/Classificacao.rst:69
+msgid "Dimensão"
+msgstr ""
+
+#: ../../_files/loin/arquitetura/Classificacao.rst:74
+msgid "Localização"
+msgstr ""
+
+#: ../../_files/loin/arquitetura/Classificacao.rst:79
+msgid "Aparência"
+msgstr ""
+
+#: ../../_files/loin/arquitetura/Classificacao.rst:84
+msgid "Comportamento Paramétrico"
+msgstr ""
+
+#: ../../_files/loin/arquitetura/Classificacao.rst:89
+msgid "Requisitos mínimos de informação alfanumérica"
+msgstr ""
+
+#: ../../_files/loin/arquitetura/Classificacao.rst:94
+#: ../../_files/loin/arquitetura/Classificacao.rst:114
+msgid "Atributos"
+msgstr ""
+
+#: ../../_files/loin/arquitetura/Classificacao.rst:99
+msgid "Name"
+msgstr ""
+
+#: ../../_files/loin/arquitetura/Classificacao.rst:100
+#: ../../_files/loin/arquitetura/Classificacao.rst:101
+#: ../../_files/loin/arquitetura/Classificacao.rst:102
+#: ../../_files/loin/arquitetura/Classificacao.rst:107
+#: ../../_files/loin/arquitetura/Classificacao.rst:120
+#: ../../_files/loin/arquitetura/Classificacao.rst:121
+#: ../../_files/loin/arquitetura/Classificacao.rst:122
+#: ../../_files/loin/arquitetura/Classificacao.rst:127
+msgid "X"
+msgstr ""
+
+#: ../../_files/loin/arquitetura/Classificacao.rst:104
+msgid "Edition"
+msgstr ""
+
+#: ../../_files/loin/arquitetura/Classificacao.rst:109
+msgid "Referências"
+msgstr ""
+
+#: ../../_files/loin/arquitetura/Classificacao.rst:119
+msgid "Identification"
+msgstr ""
+
+#: ../../_files/loin/arquitetura/Classificacao.rst:124
+msgid "Description"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:2
+msgid "Requisitos de informação"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:5
+msgid "Requisitos de informação organizacional (OIR)"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:7
+msgid ""
+"O OIR alinha-se com as políticas ESG (Environmental Social and "
+"Governance) da empresa. Ressaltam-se os seguintes aspetos:"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:9
+msgid ""
+"Desenvolvimento de imóveis que gerem o menor impacto ao nível ambiental e"
+" ao nível da segurança e saúde da comunidade envolvente e dos futuros "
+"utilizadores dos imóveis."
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:10
+msgid ""
+"Construção de imóveis que cumpram com a regulamentação nacional e que "
+"incorporem soluções sustentáveis, incluindo certificação de "
+"sustentabilidade."
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:11
+msgid ""
+"Decisões de investimento suportadas por análises de custos e por estudos "
+"preliminares de impactes. Escolha de soluções que permitam otimização de "
+"custos de operação e manutenção."
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:14
+msgid "Requisitos de informação do projeto (PIR)"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:17
+msgid "Entidade Requerente"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:19
+msgid "buildingSMART Portugal"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:22
+msgid "Designação comercial do projeto"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:24
+msgid "Open BIM Gardens"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:27
+msgid "Âmbito do projeto"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:29
+msgid ""
+"Edifício para uso misto (habitação multi-familiar e comércio) com 5 pisos"
+" acima do solo e 2 pisos abaixo do solo. Finalidade de comercialização e "
+"venda de todas as frações."
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:32
+msgid ""
+"Objetivos para os quais a informação será utilizada pela entidade "
+"requerente"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:34
+msgid "PIR01: ``Conformidade regulamentar``"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:35
+msgid ""
+"Desenvolvimento de todos os elementos necessários para licenciamento do "
+"empreendimento junto das entidades municipais. Todas as peças escritas e "
+"desenhadas para o procedimento de licenciamento."
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:36
+msgid "PIR02: ``Sustentabilidade``"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:37
+msgid ""
+"Desenvolvimento de estudo específico de sustentabilidade para "
+"certificação BREEAM 'Very Good'."
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:38
+msgid "PIR03: ``Suporte ao negócio``"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:39
+msgid "Estimativa orçamental e estudo de viabilidade do projeto."
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:40
+msgid "PIR04: ``Suporte à construção``"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:41
+msgid ""
+"Desenvolvimento de todos os elementos necessários para apoiar o processo "
+"de adjudicação de construção da obra."
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:42
+msgid "PIR05: ``Saúde e Segurança``"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:43
+msgid "Desenvolvimento da documentação de Segurança e Saúde."
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:46
+msgid "Fases"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:48
+msgid "Fase 01: ``Estudo prévio``"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:49
+msgid "01 Mar 2024 - 31 Mai 2024"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:50
+msgid "Fase 02: ``Anteprojeto``"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:51
+msgid ""
+"01 Jun 2024 - 31 Ago 2024 (a operação urbanística será licenciamento e "
+"não comunicação prévia)"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:52
+msgid "Fase 03: ``Projeto de execução``"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:53
+msgid "4 meses após aprovação do licenciamento"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:56
+msgid "Processo de contratação"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:58
+msgid "Adjudicação direta após processo inicial de consulta por convite."
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:61
+#: ../../_files/requisitosInformacao.rst:69
+msgid "Pontos-chave de decisão"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:63
+msgid ""
+"Na definição dos marcos de entrega de informação e pontos-chave de "
+"decisão é tido em consideração o tempo necessário para rever e aceitar a "
+"informação."
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:65
+msgid "Os pontos a considerar estão identificados abaixo."
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:67
+msgid ""
+"Os pontos-chave de decisão estão previstos para 10 dias úteis após as "
+"trocas de informação com a Entidade Requerente e estão distribuídos ao "
+"longo das fases."
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:73
+msgid "Decisões que serão tomadas em cada ponto chave de decisão"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:75
+#: ../../_files/requisitosInformacao.rst:91
+msgid "**Ponto de decisão 1**"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:77
+msgid "Decisão de adjudicação"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:79
+#: ../../_files/requisitosInformacao.rst:97
+msgid "**Ponto de decisão 2**"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:84
+#: ../../_files/requisitosInformacao.rst:103
+msgid "**Ponto de decisão 3**"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:86
+msgid "Decisão sobre aprovação de final de fase com eventuais alterações"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:89
+msgid ""
+"Questões que necessitam resposta para as tomadas de decisão informadas "
+"(PLQ)"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:93
+msgid "A proposta de honorários é considerada adequada?"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:94
+msgid ""
+"A empresa/consórcio de empresas detém portfólio, equipa e "
+"aptidão/capacidade para o trabalho?"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:95
+msgid ""
+"No âmbito BIM, cumpre adequadamente a avaliação através da matriz "
+"('Formulário de apoio à avaliação de candidatos') do 'Guia de "
+"Contratação' da CT197?"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:99
+#: ../../_files/requisitosInformacao.rst:105
+msgid "São satisfeitos os requisitos ao nível do orçamento da obra e do projeto?"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:100
+#: ../../_files/requisitosInformacao.rst:106
+msgid ""
+"As soluções arquitetónicas e técnicas são adequadas e satisfazem "
+"preferências?"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:101
+msgid "A certificação BREEAM satisfaz os critérios com razoabilidade financeira?"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:107
+msgid ""
+"Em anteprojeto: estão garantidas as condições para viabilidade do "
+"licenciamento urbanístico?"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:108
+msgid ""
+"Em projeto de execução: reúne-se a informação necessária para avançar "
+"para concurso e construção?"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:111
+msgid "Tabela de requisitos"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:116
+msgid "Ref. PIR"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:117
+msgid "Propósito da informação"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:118
+msgid "Ref. EIR"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:119
+msgid "Requisito de troca de informação (EIR)"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:121
+msgid ":rspan:`7` PIR01"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:122
+msgid ":rspan:`7` Conformidade regulamentar"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:124
+msgid "Levantamento de condicionantes regulamentares (locais e nacionais)"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:127
+msgid ""
+"Levantamento da parcela e área envolvente (inclui componente topográfica "
+"e construções existentes)"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:130
+msgid "Estudo geológico-geotécnico do local de implantação do edifício."
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:133
+msgid ""
+"Modelação da Arquitetura, Estabilidade, Redes de Abastecimento de Água, "
+"Redes de Drenagem de Águas Residuais e Pluviais, AVAC, gás, incêndio, "
+"elétrica*, telecomunicações* e outras especialidades necessárias para a "
+"obra em questão, com a devida georreferenciação. Disponibilização de "
+"federação dos modelos por parte da entidade fornecedora líder."
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:135
+msgid ""
+"*os modelos em questão serão representados de forma simplificada de "
+"acordo com o nível de informação necessário."
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:138
+msgid ""
+"Coordenação dos modelos, resultante da análise combinada da arquitetura e"
+" especialidades. Suportar a coordenação em matriz de colisões à "
+"responsabilidade da entidade fornecedora líder."
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:141
+msgid ""
+"Acompanhamento e validação do processo de coordenação BIM. As evidências "
+"de tal processo deverão ser proporcionadas pelo gestor de informação da "
+"entidade fornecedora líder. Estas evidências deverão demonstrar que o "
+"empreendimento está a ser desenvolvido de acordo com regulamentação e com"
+" a concordância do requerente e que se resolvem os conflitos existentes "
+"nos modelos."
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:144
+msgid ""
+"Produção de peças desenhadas (obtidas a partir dos modelos, com "
+"potenciais exclusões devidamente justificadas no BEP) e escritas da "
+"Arquitetura e Especialidades."
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:147
+msgid "Simulações energéticas e certificação."
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:149
+msgid "PIR02"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:150
+msgid "Sustentabilidade"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:152
+msgid ""
+"Análise de sustentabilidade BREEAM com classificação de 'Very Good'. A "
+"análise não necessita ser totalmente baseada em modelos."
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:154
+msgid "PIR03"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:155
+msgid "Suporte ao negócio"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:157
+msgid ""
+"Estimativa de quantidades e custos (com quantidades obtidas a partir dos "
+"modelos, com potenciais exclusões devidamente justificadas no BEP) e "
+"cronograma."
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:159
+msgid ":rspan:`1` PIR04"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:160
+msgid ":rspan:`1` Suporte à construção"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:162
+msgid ""
+"Compilação de modelos devidamente coordenados e georreferenciados, peças "
+"desenhadas e escritas."
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:165
+msgid ""
+"Elaboração de mapas de trabalhos e quantidades (com quantidades obtidas a"
+" partir dos modelos, com potenciais exclusões devidamente justificadas no"
+" BEP)."
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:167
+msgid "PIR05"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:168
+msgid "Saúde e Segurança"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:170
+msgid "Elaboração do plano de Segurança e Saúde e Compilação Técnica da Obra."
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:173
+msgid "Nível de Informação Necessário"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:175
+msgid ""
+"O desenvolvimento das tabelas com o Nível de Informação Necessário (EN "
+"ISO 7817-1:2024) a ser seguido nas diversas trocas de informação, entre "
+"os diversos atores, é da responsabilidade da Entidade Fornecedora Líder. "
+"As tabelas devem estar contidas no BEP, sendo que no presente documento "
+"são apresentadas tabelas de referência com requisitos mínimos. As "
+"entidades fornecedoras devem adicionar informação alfanumérica que não "
+"tenha sido prevista nas tabelas mencionadas e que seja relevante para "
+"caracterização dos objetos do projeto. O modelo IFC também deve conter "
+"informação que permita relacionar o objeto ao articulado do mapa de "
+"quantidades."
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:177
+msgid "Tabelas de Nível de Informação Necessário:"
+msgstr ""
+
+#: ../../_files/requisitosInformacao.rst:179
+msgid ":doc:`loin/arquitetura/Classificacao`"
+msgstr ""
+

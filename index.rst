@@ -1,24 +1,6 @@
 EIR
 ===
 
-.. Glossário
-.. 1. Introdução
-.. 2. Requisitos de informação
-.. 2.1. Requisitos de informação organizacional (OIR)
-.. 2.2. Requisitos de informação do projeto (PIR)
-.. 2.3. Tabela de requisitos
-.. 2.4. Nível de Informação Necessário
-.. 3. Critérios de aceitação
-.. 3.1. Normas de informação do projeto
-.. 3.2. Métodos e procedimentos de produção de informação do projeto
-.. 3.3. Tabela de aceitação
-.. 4. Informação de suporte
-.. 4.1. Informação de referência
-.. 5. Datas, marcos de entrega de informação e pontos-chave de decisão
-.. Apêndices
-.. Apêndice A - Códigos para nomenclatura de blocos de informação
-.. Apêndice B - Códigos para metadados dos blocos de informação
-
 .. toctree::
    :caption: Índice
    :numbered:
@@ -29,6 +11,7 @@ EIR
    _files/criteriosAceitacao
    _files/informacaoSuporte
    _files/datasMilestones
+   _files/apendices
 
 ..    :maxdepth: 2
 ..    :caption: Contents:
