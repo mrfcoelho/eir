@@ -2,6 +2,8 @@ import subprocess
 import os
 
 def build_doc(language):
+    subprocess.run("git checkout", shell=True)
+    subprocess.run("git checkout main -- conf.py", shell=True)
     os.environ['SPHINXOPTS'] = "-D language='{}'".format(language)
     subprocess.run("make html", shell=True)    
 
