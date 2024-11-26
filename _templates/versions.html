@@ -5,7 +5,7 @@
   aria-label="versions"
 >
   <span class="rst-current-version" data-toggle="rst-current-version">
-    Language
+    {% if current_language == "pt_PT" %} Idioma {% else %} Language {% endif %}
     <span class="fa fa-caret-down"></span>
   </span>
   <div class="rst-other-versions">

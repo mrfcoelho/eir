@@ -36,9 +36,11 @@ html_theme_options = {
 
 build_all_docs = os.environ.get("build_all_docs")
 pages_root = os.environ.get("pages_root", "")
+current_language = os.environ.get("current_language")
 
 if build_all_docs is not None:
 
   html_context = {
+    'current_language' : current_language,
     'languages': [["pt", pages_root], ['en', pages_root+'/en']]
   }
