@@ -24,15 +24,19 @@ jobs:
       - name: Sphinx build
         run: |
           python3 build_docs.py
-      - name: Setup Pages
-        id: pages
-        uses: actions/configure-pages@v5
       - name: Upload artifact
+        id: deployment
         uses: actions/upload-pages-artifact@v3
         with:
           path: "./pages"
+
+  deploy:
+    needs: build
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
