@@ -22,7 +22,7 @@ jobs:
           sudo apt-get update
           sudo apt-get install git -y
           python -m pip install --upgrade pip
-          python -m pip install sphinx sphinx-intl furo linuxdoc
+          python -m pip install sphinx sphinx-intl sphinx_rtd_theme linuxdoc
       - name: Sphinx build
         run: |
           python3 build_docs.py
