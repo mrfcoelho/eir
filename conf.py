@@ -40,5 +40,5 @@ pages_root = os.environ.get("pages_root", "")
 if build_all_docs is not None:
 
   html_context = {
-    'languages': [["en", pages_root], ['en', pages_root+'/en']]
+    'languages': [["pt", pages_root], ['en', pages_root+'/en']]
   }
