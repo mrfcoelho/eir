@@ -13,6 +13,6 @@ os.environ["build_all_docs"] = str(True)
 os.environ["pages_root"] = "https://mrfcoelho.github.io/eir" 
 
 build_doc("en")
-move_dir("./_build/html/", "../pages/en/")
+move_dir("./_build/html/", "./pages/en/")
 build_doc("pt_PT")
-move_dir("./_build/html/", "../pages/")
+move_dir("./_build/html/", "./pages/")
