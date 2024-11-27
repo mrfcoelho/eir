@@ -1,6 +1,7 @@
 # V1.1.1 - 2024/10/22
 
 # Content
+
 - [Glossary](#glossary)
 - [1. Introduction](#1-introduction)
 - [2. Information Requirements](#2-information-requirements)
@@ -20,14 +21,13 @@
   - [Appendix A - Codes for naming information containers](#appendix-a---codes-for-naming-information-containers)
   - [Appendix B - Codes for information containers metadata](#appendix-b---codes-for-information-containers-metadata)
 
-
 # Glossary
 
 **Common Data Environment (CDE)**
 
 Agreed source of information for any given project or asset, for collecting, managing and disseminating each information container through a managed process.
 
-*NOTE 1: A CDE workflow describes the processes to be used and a CDE solution can provide the technology to support those processes.*
+_NOTE 1: A CDE workflow describes the processes to be used and a CDE solution can provide the technology to support those processes._
 
 **Environmental Social and Governance (ESG)**
 
@@ -37,7 +37,7 @@ Environmental, social and governance indicators designed to assess the level of 
 
 Measure of ability to perform and function.
 
-*NOTE 1: In the context of this document, this relates to skill, knowledge or expertise to manage information.*
+_NOTE 1: In the context of this document, this relates to skill, knowledge or expertise to manage information._
 
 **Asset**
 
@@ -47,27 +47,27 @@ Item, thing or entity that has potential or actual value to an organization.
 
 Person, organization or organizational unit involved in a construction process.
 
-*NOTE 1: Organizational units include, but are not limited to, departments, teams.*
+_NOTE 1: Organizational units include, but are not limited to, departments, teams._
 
-*NOTE 2: In the context of this document, construction processes take place during the delivery phase and the operational phase.*
+_NOTE 2: In the context of this document, construction processes take place during the delivery phase and the operational phase._
 
 **Information container**
 
 Named persistent set of information retrievable from within a file, system or application storage hierarchy.
 
-*EXAMPLE: Including sub-directory, information file (including model, document, table, schedule), or distinct sub-set of an information file such as a chapter or section, layer or symbol.*
+_EXAMPLE: Including sub-directory, information file (including model, document, table, schedule), or distinct sub-set of an information file such as a chapter or section, layer or symbol._
 
-*NOTE 1: Structured information containers include geometrical models, schedules and databases. Unstructured information containers include documentation, video clips and sound recordings.*
+_NOTE 1: Structured information containers include geometrical models, schedules and databases. Unstructured information containers include documentation, video clips and sound recordings._
 
-*NOTE 2: Persistent information exists over a timescale long enough for it to have to be managed, i.e. this excludes transient information such as internet search results.*
+_NOTE 2: Persistent information exists over a timescale long enough for it to have to be managed, i.e. this excludes transient information such as internet search results._
 
-*NOTE 3: Naming of an information container should be according to an agreed naming convention.*
+_NOTE 3: Naming of an information container should be according to an agreed naming convention._
 
 **Capacity**
 
 Resources available to perform and function.
 
-*NOTE 1: In the context of this document, this relates to means, resources and procedures to manage information.*
+_NOTE 1: In the context of this document, this relates to means, resources and procedures to manage information._
 
 **Life cycle**
 
@@ -77,7 +77,7 @@ Life of the asset from the definition of its requirements to the termination of 
 
 Agreed instruction for the provision of information concerning works, goods or services.
 
-*NOTE 1: This term is used whether or not there is a formal appointment between the parties.*
+_NOTE 1: This term is used whether or not there is a formal appointment between the parties._
 
 **Acceptance criteria**
 
@@ -87,29 +87,29 @@ Evidence necessary to consider that the requirements have been met.
 
 Provider of information concerning works, goods or services.
 
-*NOTE 1: A lead appointed party should be identified for each delivery team but this can be the same organization as one of the task teams.*
+_NOTE 1: A lead appointed party should be identified for each delivery team but this can be the same organization as one of the task teams._
 
-*NOTE 2: This term is used whether or not there is a formal written appointment in place.*
+_NOTE 2: This term is used whether or not there is a formal written appointment in place._
 
 **Appointing party**
 
 Receiver of information concerning works, goods or services from a lead appointed party.
 
-*NOTE 1: In some countries the appointing party can be termed client, owner or employer but the appointing party is not limited to these functions.*
+_NOTE 1: In some countries the appointing party can be termed client, owner or employer but the appointing party is not limited to these functions._
 
-*NOTE 2: This term is used whether or not there is a formal appointment between the parties.*
+_NOTE 2: This term is used whether or not there is a formal appointment between the parties._
 
 **Delivery team**
 
 Lead appointed party and their appointed parties.
 
-*NOTE 1: A delivery team can be any size, from one person carrying out all the necessary functions through to complex, multi-layered task teams. The size and structure of each delivery team are in response to the scale and complexity of the asset management or project delivery activities.*
+_NOTE 1: A delivery team can be any size, from one person carrying out all the necessary functions through to complex, multi-layered task teams. The size and structure of each delivery team are in response to the scale and complexity of the asset management or project delivery activities._
 
-*NOTE 2: Multiple delivery teams can be appointed simultaneously and/or sequentially in connection with a single asset or project, in response to the scale and complexity of the asset management or project delivery activities.*
-  
-*NOTE 3: A delivery team can consist of multiple task teams from within the lead appointed party’s organization and any appointed parties.*
+_NOTE 2: Multiple delivery teams can be appointed simultaneously and/or sequentially in connection with a single asset or project, in response to the scale and complexity of the asset management or project delivery activities._
 
-*NOTE 4: A delivery team can be assembled by the appointing party rather than the lead appointed party.*
+_NOTE 3: A delivery team can consist of multiple task teams from within the lead appointed party’s organization and any appointed parties._
+
+_NOTE 4: A delivery team can be assembled by the appointing party rather than the lead appointed party._
 
 **Project team**
 
@@ -127,13 +127,13 @@ Limited three-dimensional extent defined physically or notionally.
 
 Creation of a composite information model (3.3.8) from separate information containers.
 
-*NOTE 1: The separate information containers used during federation can come from different task teams.*
+_NOTE 1: The separate information containers used during federation can come from different task teams._
 
 **Information**
 
 Reinterpretable representation of data in a formalized manner suitable for communication, interpretation or processing.
 
-*NOTE 1: Information can be processed by human or automatic means.*
+_NOTE 1: Information can be processed by human or automatic means._
 
 **Project information**
 
@@ -147,7 +147,7 @@ Scheduled event for a predefined information exchange.
 
 Use of a shared digital representation of a built asset to facilitate design, construction and operation processes to form a reliable basis for decisions
 
-*NOTE 1: Built assets include, but are not limited to, buildings, bridges, roads, process plants.*
+_NOTE 1: Built assets include, but are not limited to, buildings, bridges, roads, process plants._
 
 **Information model**
 
@@ -157,19 +157,19 @@ Set of structured and unstructured information containers.
 
 Information model relating to the delivery phase.
 
-*NOTE 1: During the project, the project information model can be used to convey the design intent (sometimes called the design intent model) or the virtual representation of the asset to be constructed (sometimes called the virtual construction model).*
+_NOTE 1: During the project, the project information model can be used to convey the design intent (sometimes called the design intent model) or the virtual representation of the asset to be constructed (sometimes called the virtual construction model)._
 
 **Level of information need**
 
 Framework which defines the extent and granularity of information.
 
-*NOTE 1 : One purpose of defining the level of information need is to prevent delivery of too much information.*
+_NOTE 1 : One purpose of defining the level of information need is to prevent delivery of too much information._
 
 **Delivery phase**
 
 Part of the life cycle, during which an asset is designed, constructed and commissioned.
 
-*NOTE 1: Delivery phase normally reflects a stage-based approach to a project.*
+_NOTE 1: Delivery phase normally reflects a stage-based approach to a project._
 
 **Operational phase**
 
@@ -183,13 +183,13 @@ Questions formulated in simple, clear language, designed to avoid technical jarg
 
 Plan that explains how the information management aspects of the appointment will be carried out by the delivery team.
 
-*NOTE 1: The pre-appointment BIM execution plan focuses on the delivery team’s proposed approach to information management and their capability and capacity to manage information.*
+_NOTE 1: The pre-appointment BIM execution plan focuses on the delivery team’s proposed approach to information management and their capability and capacity to manage information._
 
 **Key decision point**
 
 Point in time during the life cycle when a decision crucial to the direction or viability of the asset is made.
 
-*NOTE 1: During a project these generally align with project stages.*
+_NOTE 1: During a project these generally align with project stages._
 
 **Information requirement**
 
@@ -221,10 +221,11 @@ This document is an example of an EIR (Exchange Information Requirements of the 
 
 The OIR is in line with the company's ESG (Environmental Social and Governance) policies.
 The following aspects stand out:
-* Developing properties that have the least impact on the environment and on the health and safety of the surrounding community and future property users.
-* Construction of properties that comply with national regulations and incorporate sustainable solutions, including sustainability certification.
-* Investment decisions supported by cost analyses and preliminary impact studies.
-Choosing solutions that optimise operating and maintenance costs.
+
+- Developing properties that have the least impact on the environment and on the health and safety of the surrounding community and future property users.
+- Construction of properties that comply with national regulations and incorporate sustainable solutions, including sustainability certification.
+- Investment decisions supported by cost analyses and preliminary impact studies.
+  Choosing solutions that optimise operating and maintenance costs.
 
 ## 2.2. Project Information Requirements (PIR)
 
@@ -242,22 +243,22 @@ Building for mixed use (multi-family housing and commerce) with 5 floors above g
 
 ### 2.2.4. Purposes for which the information will be used by the appointing party
 
-* **PIR01**: `Regulatory compliance`:
-  * Development of all the necessary elements for permiting the development with the municipal authorities. All the written and drawn documents for the permiting procedure.
-* **PIR02**: `Sustainability`:
-  * Development of a specific sustainability study for BREEAM ‘Very Good’ certification.
-* **PIR03**: `Business support`:
-  * Budget estimate and project feasibility study.
-* **PIR04**: `Construction support`:
-  * Development of all the necessary elements to support the construction tender process.
-* **PIR05**: `Health and Safety`:
-  * Development of Health and Safety documentation.
+- **PIR01**: `Regulatory compliance`:
+  - Development of all the necessary elements for permiting the development with the municipal authorities. All the written and drawn documents for the permiting procedure.
+- **PIR02**: `Sustainability`:
+  - Development of a specific sustainability study for BREEAM ‘Very Good’ certification.
+- **PIR03**: `Business support`:
+  - Budget estimate and project feasibility study.
+- **PIR04**: `Construction support`:
+  - Development of all the necessary elements to support the construction tender process.
+- **PIR05**: `Health and Safety`:
+  - Development of Health and Safety documentation.
 
 ### 2.2.5. Phases
 
-* **Phase 01**: `Preliminary Design` -  01 Mar 2024 - 31 May 2024.
-* **Phase 02**: `Developed Design` - 01 Jun 2024 - 31 Aug 2024.
-* **Phase 03**: `Technical Design` - 4 months after permiting approval.
+- **Phase 01**: `Preliminary Design` - 01 Mar 2024 - 31 May 2024.
+- **Phase 02**: `Developed Design` - 01 Jun 2024 - 31 Aug 2024.
+- **Phase 03**: `Technical Design` - 4 months after permiting approval.
 
 ### 2.2.6. Hiring process
 
@@ -275,32 +276,35 @@ The key decision points are scheduled for 10 working days after the exchanges of
 
 ### 2.2.8. Decisions that will be taken at each key decision point.
 
-* **Key decision point 1**
-  * Decision to award a contract
+- **Key decision point 1**
 
-* **Key decision point 2**
-  * Decision on the level of BREEAM certification that is really desired, taking into account performance objectives and budgetary limits.
-  * Decision on investment continuity and possible adaptations to strategic objectives.
+  - Decision to award a contract
 
-* **Key decision point 3**
-  * Decision on approval of end of phase with possible changes
+- **Key decision point 2**
+
+  - Decision on the level of BREEAM certification that is really desired, taking into account performance objectives and budgetary limits.
+  - Decision on investment continuity and possible adaptations to strategic objectives.
+
+- **Key decision point 3**
+  - Decision on approval of end of phase with possible changes
 
 ### 2.2.9. Questions that need to be answered for informed decision-making. (PLQ)
 
-* **Key decision point 1**
-  * Is the fee proposal considered adequate?
-  * Does the company/consortium of companies have a portfolio, team and capacity for the work?
-  * In the BIM field, does it adequately fulfil the assessment using the matrix (‘Formulário de apoio à avaliação de candidatos’) of the CT197 ‘Guia de Contratação’?
+- **Key decision point 1**
 
-* **Key decision point 2**
-  * Are the requirements of the construction budget and the project met?
-  * Are the architectural and technical solutions appropriate and do they satisfy preferences?
-  * Does the BREEAM certification fulfil the criteria in a financially reasonable way?
-* **Key decision point 3**
-  * Are the requirements of the construction budget and the project met?
-  * Are the architectural and technical solutions appropriate and do they satisfy preferences?
-  * In the Developed Design: are the conditions guaranteed for the feasibility of town planning permission?
-  * In the Technical Design: has the necessary information been gathered to proceed to tendering and construction?
+  - Is the fee proposal considered adequate?
+  - Does the company/consortium of companies have a portfolio, team and capacity for the work?
+  - In the BIM field, does it adequately fulfil the assessment using the matrix (‘Formulário de apoio à avaliação de candidatos’) of the CT197 ‘Guia de Contratação’?
+
+- **Key decision point 2**
+  - Are the requirements of the construction budget and the project met?
+  - Are the architectural and technical solutions appropriate and do they satisfy preferences?
+  - Does the BREEAM certification fulfil the criteria in a financially reasonable way?
+- **Key decision point 3**
+  - Are the requirements of the construction budget and the project met?
+  - Are the architectural and technical solutions appropriate and do they satisfy preferences?
+  - In the Developed Design: are the conditions guaranteed for the feasibility of town planning permission?
+  - In the Technical Design: has the necessary information been gathered to proceed to tendering and construction?
 
 ## 2.3. Table of requirements
 
@@ -379,17 +383,16 @@ The key decision points are scheduled for 10 working days after the exchanges of
     </tbody>
 </table>
 
-
 ## 2.4. Level of Information Need
 
 The development of the tables with the Level of Information Need (EN ISO 7817-1:2024) to be followed in the various exchanges of information between the different actors is the responsibility of the lead appointed party. The tables must be contained in the BEP, and this document presents reference tables with minimum requirements. Appointed parties must add alphanumeric information that has not been provided for in the aforementioned tables and that is relevant to characterising the project objects. The IFC model must also contain information that makes it possible to relate the object to the bill of quantities.
 
 Level of Information Need tables:
-* [General](https://docs.google.com/spreadsheets/d/1k83QjVxPOW7c3up-CIHF8iAWr-czL6S-ydMOzpceqFA/edit?usp=sharing)
-* [Architecture](https://docs.google.com/spreadsheets/d/11xiTGFg2GAbOHxz0F6xhg2sQ_z4YqAgn-09Cu-fTRag/edit?usp=sharing)
-* [Structures](https://docs.google.com/spreadsheets/d/1dVo7M5WjIwx5io5K3Yz9jG1zup9KUn7F5YuW2Y4C7rw/edit?usp=sharing)
-* [MEP](https://docs.google.com/spreadsheets/d/1pByYte0SPJFTEmYlWVsC-1OlroNQO20FR2xvnn8u4E0/edit?usp=sharing)
 
+- [General](https://docs.google.com/spreadsheets/d/1k83QjVxPOW7c3up-CIHF8iAWr-czL6S-ydMOzpceqFA/edit?usp=sharing)
+- [Architecture](https://docs.google.com/spreadsheets/d/11xiTGFg2GAbOHxz0F6xhg2sQ_z4YqAgn-09Cu-fTRag/edit?usp=sharing)
+- [Structures](https://docs.google.com/spreadsheets/d/1dVo7M5WjIwx5io5K3Yz9jG1zup9KUn7F5YuW2Y4C7rw/edit?usp=sharing)
+- [MEP](https://docs.google.com/spreadsheets/d/1pByYte0SPJFTEmYlWVsC-1OlroNQO20FR2xvnn8u4E0/edit?usp=sharing)
 
 # 3. Acceptance criteria
 
@@ -420,7 +423,7 @@ Unique code representing the project.
 
 #### b) Originator
 
-Variable according to the organisation that created the information container. 
+Variable according to the organisation that created the information container.
 
 The codes must be defined by each appointed party and refer to the name of the company. The appointing party will approve the proposed codes.
 
@@ -432,15 +435,16 @@ The code must be defined in the BIM Execution Plan and contain three characters.
 
 #### c) Volume/System
 
-Variable, refers to subdivisions related to the function, and can be broken down into volumes and systems. 
+Variable, refers to subdivisions related to the function, and can be broken down into volumes and systems.
 
 The definition of these codes is the responsibility of each appointed party and can be up to four characters long.
 
 The codes defined must be listed alongside their definitions in the BIM Execution Plan.
 
 > Codes:
-> * `XX - Not applicable`
-> * `ZZ - All`
+>
+> - `XX - Not applicable`
+> - `ZZ - All`
 
 ---
 
@@ -448,21 +452,22 @@ The codes defined must be listed alongside their definitions in the BIM Executio
 
 Variable, refers to the floors of the project or other types of spatial break-down.
 
-The list below can be expanded by the lead appointed party if deemed necessary. 
+The list below can be expanded by the lead appointed party if deemed necessary.
 
 Newly defined codes must be listed alongside their definitions in the BIM Execution Plan.
 
 > Codes:
-> * `XXX - Not applicable`
-> * `ZZZ - Various floors`
-> * `S02 - Underground 02`
-> * `S01 - Underground 01`
-> * `P00 - Ground floor`
-> * `P01 - Floor 01`
-> * `P02 - Floor 02`
-> * `P03 - Floor 03`
-> * `P04 - Floor 04`
-> * `C05 - Roof`
+>
+> - `XXX - Not applicable`
+> - `ZZZ - Various floors`
+> - `S02 - Underground 02`
+> - `S01 - Underground 01`
+> - `P00 - Ground floor`
+> - `P01 - Floor 01`
+> - `P02 - Floor 02`
+> - `P03 - Floor 03`
+> - `P04 - Floor 04`
+> - `C05 - Roof`
 
 ---
 
@@ -470,7 +475,7 @@ Newly defined codes must be listed alongside their definitions in the BIM Execut
 
 Variable, refers to the form in which the information is presented. Each information container must contain a single type of information.
 
-The list can be expanded by the lead appointed party if deemed necessary. 
+The list can be expanded by the lead appointed party if deemed necessary.
 
 Newly defined codes must be listed alongside their definitions in the BIM Execution Plan.
 
@@ -504,9 +509,10 @@ Variable and ordered, applicable to the information containers that are part of 
 Codes must contain a maximum of four digits made up of whole numbers.
 
 > Codes:
-> * `0001 - First information comtainer`
-> * `0002 - Second information comtainer`
-> * `nnnn - Increasing numbering`
+>
+> - `0001 - First information comtainer`
+> - `0002 - Second information comtainer`
+> - `nnnn - Increasing numbering`
 
 ---
 
@@ -537,9 +543,9 @@ The definition of the status is presented in relation to the CDE. The respective
 The revision code must be composed of three fields according to the following definition:
 `<Field1>`.`<Field2>`.`<Field3>`
 
-* `Field1` - Single letter indicating whether the revision is Preliminary (P) or Contractual (C)
-* `Field2` - Two numeric characters indicating the primary revision number.
-* `Field3` - Two numeric characters indicating the version of the primary revision, exclusively used for ‘Work in Progress’.
+- `Field1` - Single letter indicating whether the revision is Preliminary (P) or Contractual (C)
+- `Field2` - Two numeric characters indicating the primary revision number.
+- `Field3` - Two numeric characters indicating the version of the primary revision, exclusively used for ‘Work in Progress’.
 
 ---
 
@@ -563,13 +569,13 @@ Date of the last edition of the information container.
 
 #### f) Others
 
-The information containers may include additional metadata if they are deemed necessary by the lead appointed party. Newly defined codes must be listed alongside their definitions in the BIM Execution Plan. 
+The information containers may include additional metadata if they are deemed necessary by the lead appointed party. Newly defined codes must be listed alongside their definitions in the BIM Execution Plan.
 
 ---
 
 ### 3.1.4. Nomenclature of information blocks - IFC: Objects and alphanumeric information
 
-It is not prescribed. However, it is recommended to use the nomenclatures in the proposed technical specification for ‘Regras de modelação de objetos’ available at: [https://bit.ly/secclass_manual_objetos_bim_](https://bit.ly/secclass_manual_objetos_bim_). The lead appointed party must explain the principles adopted for naming in the BEP.
+It is not prescribed. However, it is recommended to use the nomenclatures in the proposed technical specification for ‘Regras de modelação de objetos’ available at: [https://bit.ly/secclass*manual_objetos_bim*](https://bit.ly/secclass_manual_objetos_bim_). The lead appointed party must explain the principles adopted for naming in the BEP.
 
 ---
 
@@ -601,7 +607,7 @@ Editable documents and spreadsheets following the ISO/IEC 29500-1:2016 standard 
 
 Point cloud survey files in ASTM E57.
 
-Drawings in editable DWG format. 
+Drawings in editable DWG format.
 
 Documents, spreadsheets and non-editable drawings in PDF format following the ISO 32000-2:2020 standard.
 
@@ -627,7 +633,7 @@ There are no requirements for the software to be used by the appointed parties. 
 
 The appointing party will use the software `<IFCVualisation/VerificationSoftwareName>` to visualise, verify and validate information containers IFC. The lead appointed party must verify the proper performance of the information containers IFC on this platform and inform beforehand of potential problems in the interpretation of the IFCs submitted.
 
-The CDE to be used will be maintained on the appointing party's servers and will consist of the `R2U`* CDE solution. 
+The CDE to be used will be maintained on the appointing party's servers and will consist of the `R2U`\* CDE solution.
 
 All BCFs will be managed centrally in the `R2U` CDE.
 
@@ -635,7 +641,7 @@ All BCFs will be managed centrally in the `R2U` CDE.
 
 ### 3.1.11. Information for the asset management operational phase
 
-No specific requirements in the design phase beyond the classification already required. This information will be required at the contract consultation stage. 
+No specific requirements in the design phase beyond the classification already required. This information will be required at the contract consultation stage.
 
 ## 3.2. Methods and procedures for producing project information
 
@@ -665,7 +671,7 @@ The origin of the project's local coordinate reference point must be identified 
 
 In addition, there may also be a second point (labelled ‘Landmark’) with the same characteristics and local coordinates (1,1,0).
 
-All models, of all disciplines, must follow a common set of building story elevations and nomenclature. 
+All models, of all disciplines, must follow a common set of building story elevations and nomenclature.
 
 Space objects must contain consistent information on the type, function and numbering of the room.
 
@@ -710,9 +716,9 @@ In the case of editable drawings, they must be in DWG format when generated in C
 
 Model coordination should be carried out regularly. Each appointed party should coordinate its own models as part of its quality assurance process, before sharing the information with the delivery team. Information/clarification exchanges regarding BIM models between the appointing party and the lead appointed party should preferably be carried out using BCF files in the CDE.
 
-Any exchange of information between task teams of the same discipline must take place within their respective folder in the *Work in Progress* status of the Common Data Environment. The organisation and frequency of these exchanges is determined by the lead appointed party for their delivery team.
+Any exchange of information between task teams of the same discipline must take place within their respective folder in the _Work in Progress_ status of the Common Data Environment. The organisation and frequency of these exchanges is determined by the lead appointed party for their delivery team.
 
-The information produced by each appointed party should only be shared with other appointed parties when already coordinated within each delivery team. Information exchanges between different appointed parties take place in the *Shared* state of t
+The information produced by each appointed party should only be shared with other appointed parties when already coordinated within each delivery team. Information exchanges between different appointed parties take place in the _Shared_ state of t
 he Common Data Environment. A maximum periodicity of 15 days is defined for updating models in the CDE, with at least S2 status.
 
 ---
@@ -724,7 +730,6 @@ Each task team must carry out a quality assurance check on each information cont
 The information review and approval process follows the flow illustrated in the figure below:
 
 ![Review and approval of information process](/Images/ReviewOfInformation.svg "Processo de revisão e aprovação da informação")
-
 
 The items to be considered in the review, as well as the KPIs and checklist, are detailed below. [Acceptance table](#33-acceptance-table).
 
@@ -738,13 +743,13 @@ The final deliverables must move to status S5 ([table B.1](#table-b1--codes-for-
 
 ### 3.2.4. Security
 
-The collaborative digital working methods and technologies used in the project involve the collaborative sharing of information by a number of independent actors, and therefore the need arose to manage the vulnerability issues inherent in the availability of information in accordance with the requirements of EN ISO 19650-5. The appointing party therefore carried out a sensitivity assessment to identify whether or not a security approach was required and applied the triage process, which led to the ST4 classification. 
+The collaborative digital working methods and technologies used in the project involve the collaborative sharing of information by a number of independent actors, and therefore the need arose to manage the vulnerability issues inherent in the availability of information in accordance with the requirements of EN ISO 19650-5. The appointing party therefore carried out a sensitivity assessment to identify whether or not a security approach was required and applied the triage process, which led to the ST4 classification.
 
 This classification led to the conclusion that in this project there will be no need to develop a security strategy, respective security plan, fault and incident management plans and information sharing agreements with appointed parties. However, commercial and personal information must be protected in accordance with the legislation in force, namely the GDPR. Appropriate measures must also be taken to minimise threats arising from fraudulent and other criminal activities and cybersecurity incidents.
 
 ## 3.3. Acceptance table
 
-| Acceptance criteria*    | Note | Description                                                                                                                                                         |
+| Acceptance criteria\*   | Note | Description                                                                                                                                                         |
 | ----------------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Not Applicable          | NA   | Requirement not applicable at a given stage or for a given project                                                                                                  |
 | Not compliant           | 0    | Does not fulfil BEP criteria; In some cases, such as Levels, Grids and Orientation/Coordinate System, there are no intermediate gradations: only 0 or 3 is applied. |
@@ -799,7 +804,6 @@ This classification led to the conclusion that in this project there will be no 
 | N    | Materials                                      | Materials fulfil Level of Information Need requirements                                              |
 | O    | Classification                                 | Objects classified according to the SECClasS system                                                  |
 
-
 # 4. Support information
 
 Supporting information consists of information that is intended to be made available by the appointing party to the lead appointed party in order to avoid redundant work and ensure that the information is developed in accordance with its standards. This enables the lead appointed party to have a better understanding of what is required for the project. According to clause 5.2.1 d) of EN ISO 19650-2, supporting information can consist of existing asset information, shared resources, examples of deliverables, supporting documents, guidance material and references to international, national or industry standards.
@@ -829,9 +833,10 @@ Support information is available at: [https://drive.google.com/drive/folders/1JB
 # 5. Dates, information delivery milestones and key decision points
 
 At the tender stage, bidders must submit:
-* The `pre-contract BEP` accordin to the EN ISO 19650 and national specification, including RACI matrix and demonstration of capability.
-* The `matriz de apoio à pontuação dos Candidatos` ('Formulário de apoio à avaliação de candidatos') from the CT197 'Guia de Contratação'.
-* The `Proposal fee`.
+
+- The `pre-contract BEP` accordin to the EN ISO 19650 and national specification, including RACI matrix and demonstration of capability.
+- The `matriz de apoio à pontuação dos Candidatos` ('Formulário de apoio à avaliação de candidatos') from the CT197 'Guia de Contratação'.
+- The `Proposal fee`.
 
 <table>
     <thead>
@@ -903,141 +908,6 @@ At the tender stage, bidders must submit:
     </tbody>
 </table>
 
-# Appendixes
-
-## Appendix A - Codes for naming information containers
-
-### Table A.1 – Type field codes
-
-<table>
-    <thead>
-        <tr>
-            <th>Type (portuguese)</th>
-            <th>Type (english)</th>
-            <th>Description (portuguese)</th>
-            <th>Description (english)</th>
-            <th>Code</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td rowspan=6>Comunicação</td>
-            <td rowspan=6>Communication</td>
-            <td>Agenda</td>
-            <td>Agenda</td>
-            <td>AG</td>
-        </tr>
-        <tr>
-            <td>Correspondência</td>
-            <td>Correspondence</td>
-            <td>CO</td>
-        </tr>
-        <tr>
-            <td>Ficheiro de notas</td>
-            <td>Notes file</td>
-            <td>FN</td>
-        </tr>
-        <tr>
-            <td>Ata</td>
-            <td>Minutes</td>
-            <td>AT</td>
-        </tr>
-        <tr>
-            <td>Apresentação</td>
-            <td>Presentation</td>
-            <td>AP</td>
-        </tr>
-        <tr>
-            <td>Pedido</td>
-            <td>Pedido</td>
-            <td>PI</td>
-        </tr>
-        <tr>
-            <td rowspan=1>Dados</td>
-            <td rowspan=1>Data</td>
-            <td>Base de dados</td>
-            <td>Database</td>
-            <td>BD</td>
-        </tr>
-        <tr>
-            <td rowspan=2>Projeto</td>
-            <td rowspan=2>Project</td>
-            <td>Cálculos</td>
-            <td>Calculations</td>
-            <td>CA</td>
-        </tr>
-        <tr>
-            <td>Especificação</td>
-            <td>Specification</td>
-            <td>EP</td>
-        </tr>
-        <tr>
-            <td rowspan=3>Financeiro</td>
-            <td rowspan=3>Finance</td>
-            <td>Mapa de quantidades</td>
-            <td>Quantities map</td>
-            <td>MQ</td>
-        </tr>
-        <tr>
-            <td>Estimativa orçamental</td>
-            <td>Budget estimate</td>
-            <td>EO</td>
-        </tr>
-        <tr>
-            <td>Cotação</td>
-            <td>Quotation</td>
-            <td>CT</td>
-        </tr>
-        <tr>
-            <td rowspan=8>Gráfico</td>
-            <td rowspan=8>Graphics</td>
-            <td>Ficheiro de animação</td>
-            <td>Animation file</td>
-            <td>FA</td>
-        </tr>
-        <tr>
-            <td>Deteção de colisões</td>
-            <td>Clash detection</td>
-            <td>DC</td>
-        </tr>
-        <tr>
-            <td>Modelo combinado</td>
-            <td>Federated model</td>
-            <td>MC</td>
-        </tr>
-        <tr>
-            <td>Desenho</td>
-            <td>Drawing</td>
-            <td>DS</td>
-        </tr>
-        <tr>
-            <td>Modelo - tridimensional</td>
-            <td>Three-dimensional model</td>
-            <td>M3</td>
-        </tr>
-        <tr>
-            <td>Modelo - bidimensional</td>
-            <td>Two-dimensional model</td>
-            <td>M2</td>
-        </tr>
-        <tr>
-            <td>Fotografia</td>
-            <td>Photography</td>
-            <td>FT</td>
-        </tr>
-        <tr>
-            <td>Visualização</td>
-            <td>Visualisation</td>
-            <td>VS</td>
-        </tr>
-        <tr>
-            <td rowspan=1>Orientação oficial</td>
-            <td rowspan=1>Official guidelines</td>
-            <td>Regulamento</td>
-            <td>Regulation</td>
-            <td>RG</td>
-        </tr>
-        <tr>
             <td rowspan=1>Planeamento de projeto</td>
             <td rowspan=1>Project planning</td>
             <td>Programa</td>
@@ -1077,6 +947,7 @@ At the tender stage, bidders must submit:
             <td>LG</td>
         </tr>
     </tbody>
+
 </table>
 
 ### Table A.2 – Discipline field codes
@@ -1142,7 +1013,6 @@ At the tender stage, bidders must submit:
 | Urbanismo                                               | Urban planning                                    | URB  |
 | Não disciplinar / não aplicável                         | General (non‐disciplinary)                        | XXX  |
 | Multidisciplinar                                        | Multidisciplinary                                 | ZZZ  |
-
 
 ### Table A.3 – Phase field codes
 

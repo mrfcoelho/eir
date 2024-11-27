@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: EIR \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-22 16:24+0000\n"
+"POT-Creation-Date: 2024-11-26 16:00+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -21,19 +21,19 @@ msgstr ""
 
 #: ../../_files/apendices.rst:2
 msgid "Apêndices"
-msgstr ""
+msgstr "Appendixes"
 
 #: ../../_files/apendices.rst:5
 msgid "Apêndice A - Códigos para nomenclatura de blocos de informação"
-msgstr ""
+msgstr "Appendix A - Codes for naming information containers"
 
 #: ../../_files/apendices.rst:9
 msgid "Tabela A.1 – Códigos para o campo Forma"
-msgstr ""
+msgstr "Table A.1 – Type field codes"
 
 #: ../../_files/apendices.rst:12
 msgid "Tipo"
-msgstr ""
+msgstr "Type"
 
 #: ../../_files/apendices.rst:13 ../../_files/apendices.rst:113
 #: ../../_files/apendices.rst:341 ../../_files/criteriosAceitacao.rst:384
@@ -47,15 +47,15 @@ msgstr ""
 #: ../../_files/apendices.rst:14 ../../_files/apendices.rst:114
 #: ../../_files/apendices.rst:299 ../../_files/apendices.rst:342
 msgid "Código"
-msgstr ""
+msgstr "Code"
 
 #: ../../_files/apendices.rst:16
 msgid ":rspan:`5` Comunicação"
-msgstr ""
+msgstr "Communication"
 
 #: ../../_files/apendices.rst:17
 msgid "Agenda"
-msgstr ""
+msgstr "Agenda"
 
 #: ../../_files/apendices.rst:18
 msgid "AG"
@@ -63,7 +63,7 @@ msgstr ""
 
 #: ../../_files/apendices.rst:20
 msgid "Correspondência"
-msgstr ""
+msgstr "Correspondence"
 
 #: ../../_files/apendices.rst:21 ../../_files/apendices.rst:320
 msgid "CO"
@@ -71,7 +71,7 @@ msgstr ""
 
 #: ../../_files/apendices.rst:23
 msgid "Ficheiro de notas"
-msgstr ""
+msgstr "Notes file"
 
 #: ../../_files/apendices.rst:24
 msgid "FN"
@@ -79,7 +79,7 @@ msgstr ""
 
 #: ../../_files/apendices.rst:26
 msgid "Ata"
-msgstr ""
+msgstr "Minutes"
 
 #: ../../_files/apendices.rst:27
 msgid "AT"
@@ -87,7 +87,7 @@ msgstr ""
 
 #: ../../_files/apendices.rst:29
 msgid "Apresentação"
-msgstr ""
+msgstr "Presentation"
 
 #: ../../_files/apendices.rst:30 ../../_files/apendices.rst:314
 msgid "AP"
@@ -95,7 +95,7 @@ msgstr ""
 
 #: ../../_files/apendices.rst:32
 msgid "Pedido"
-msgstr ""
+msgstr "Request"
 
 #: ../../_files/apendices.rst:33
 msgid "PI"
@@ -103,11 +103,11 @@ msgstr ""
 
 #: ../../_files/apendices.rst:35
 msgid "Dados"
-msgstr ""
+msgstr "Data"
 
 #: ../../_files/apendices.rst:36
 msgid "Base de dados"
-msgstr ""
+msgstr "Database"
 
 #: ../../_files/apendices.rst:37
 msgid "BD"
@@ -115,11 +115,11 @@ msgstr ""
 
 #: ../../_files/apendices.rst:39
 msgid ":rspan:`1` Projeto"
-msgstr ""
+msgstr "Project"
 
 #: ../../_files/apendices.rst:40
 msgid "Cálculos"
-msgstr ""
+msgstr "Calculations"
 
 #: ../../_files/apendices.rst:41
 msgid "CA"
@@ -127,7 +127,7 @@ msgstr ""
 
 #: ../../_files/apendices.rst:43
 msgid "Especificação"
-msgstr ""
+msgstr "Specification"
 
 #: ../../_files/apendices.rst:44 ../../_files/apendices.rst:311
 msgid "EP"
@@ -135,11 +135,11 @@ msgstr ""
 
 #: ../../_files/apendices.rst:46
 msgid ":rspan:`2` Financeiro"
-msgstr ""
+msgstr "Finance"
 
 #: ../../_files/apendices.rst:47
 msgid "Mapa de quantidades"
-msgstr ""
+msgstr "Quantities map"
 
 #: ../../_files/apendices.rst:48
 msgid "MQ"
@@ -147,7 +147,7 @@ msgstr ""
 
 #: ../../_files/apendices.rst:50
 msgid "Estimativa orçamental"
-msgstr ""
+msgstr "Budget estimate"
 
 #: ../../_files/apendices.rst:51
 msgid "EO"
@@ -155,7 +155,7 @@ msgstr ""
 
 #: ../../_files/apendices.rst:53
 msgid "Cotação"
-msgstr ""
+msgstr "Quotation"
 
 #: ../../_files/apendices.rst:54
 msgid "CT"
@@ -163,11 +163,11 @@ msgstr ""
 
 #: ../../_files/apendices.rst:56
 msgid ":rspan:`7` Gráfico"
-msgstr ""
+msgstr "Graphics"
 
 #: ../../_files/apendices.rst:57
 msgid "Ficheiro de animação"
-msgstr ""
+msgstr "Animation file"
 
 #: ../../_files/apendices.rst:58
 msgid "FA"
@@ -175,7 +175,7 @@ msgstr ""
 
 #: ../../_files/apendices.rst:60
 msgid "Deteção de colisões"
-msgstr ""
+msgstr "Clash detection"
 
 #: ../../_files/apendices.rst:61
 msgid "DC"
@@ -183,7 +183,7 @@ msgstr ""
 
 #: ../../_files/apendices.rst:63
 msgid "Modelo combinado"
-msgstr ""
+msgstr "Federated model"
 
 #: ../../_files/apendices.rst:64
 msgid "MC"
@@ -191,7 +191,7 @@ msgstr ""
 
 #: ../../_files/apendices.rst:66
 msgid "Desenho"
-msgstr ""
+msgstr "Drawing"
 
 #: ../../_files/apendices.rst:67
 msgid "DS"
@@ -199,7 +199,7 @@ msgstr ""
 
 #: ../../_files/apendices.rst:69
 msgid "Modelo - tridimensional"
-msgstr ""
+msgstr "Three-dimensional model"
 
 #: ../../_files/apendices.rst:70
 msgid "M3"
@@ -207,7 +207,7 @@ msgstr ""
 
 #: ../../_files/apendices.rst:72
 msgid "Modelo - bidimensional"
-msgstr ""
+msgstr "Two-dimensional model"
 
 #: ../../_files/apendices.rst:73
 msgid "M2"
@@ -215,7 +215,7 @@ msgstr ""
 
 #: ../../_files/apendices.rst:75
 msgid "Fotografia"
-msgstr ""
+msgstr "Photography"
 
 #: ../../_files/apendices.rst:76
 msgid "FT"
@@ -223,7 +223,7 @@ msgstr ""
 
 #: ../../_files/apendices.rst:78
 msgid "Visualização"
-msgstr ""
+msgstr "Visualisation"
 
 #: ../../_files/apendices.rst:79
 msgid "VS"
@@ -231,11 +231,11 @@ msgstr ""
 
 #: ../../_files/apendices.rst:81
 msgid "Orientação oficial"
-msgstr ""
+msgstr "Official guidelines"
 
 #: ../../_files/apendices.rst:82
 msgid "Regulamento"
-msgstr ""
+msgstr "Regulation"
 
 #: ../../_files/apendices.rst:83
 msgid "RG"
@@ -944,7 +944,7 @@ msgstr ""
 msgid "A1, An, etc"
 msgstr ""
 
-#: ../../_files/criteriosAceitacao.rst:2 ../../_files/glossario.rst:66
+#: ../../_files/criteriosAceitacao.rst:2 ../../_files/glossario.rst:68
 msgid "Critérios de aceitação"
 msgstr ""
 
@@ -2283,7 +2283,7 @@ msgstr ""
 msgid "Data de entrega do entregável"
 msgstr ""
 
-#: ../../_files/datasMilestones.rst:15 ../../_files/glossario.rst:180
+#: ../../_files/datasMilestones.rst:15 ../../_files/glossario.rst:182
 msgid "Ponto-chave de decisão"
 msgstr ""
 
@@ -2397,224 +2397,228 @@ msgid "Glossário"
 msgstr ""
 
 #: ../../_files/glossario.rst:6
+msgid "aaaaaaaaaaaa"
+msgstr ""
+
+#: ../../_files/glossario.rst:8
 msgid "Ambiente comum de dados"
 msgstr ""
 
-#: ../../_files/glossario.rst:9
+#: ../../_files/glossario.rst:11
 msgid "CDE (*Common Data Environment*)"
 msgstr ""
 
-#: ../../_files/glossario.rst:11
+#: ../../_files/glossario.rst:13
 msgid ""
 "Fonte de informação acordada para qualquer projeto ou ativo, para "
 "recolher, gerir e disseminar cada bloco de informação através de um "
 "processo estruturado."
 msgstr ""
 
-#: ../../_files/glossario.rst:13
+#: ../../_files/glossario.rst:15
 msgid ""
 "*NOTA 1: O fluxo de trabalho do CDE descreve os processos a serem usados "
 "e uma solução CDE permite disponibilizar a tecnologia para suportar esses"
 " processos.*"
 msgstr ""
 
-#: ../../_files/glossario.rst:14
+#: ../../_files/glossario.rst:16
 msgid "Ambiente, social e governação"
 msgstr ""
 
-#: ../../_files/glossario.rst:17
+#: ../../_files/glossario.rst:19
 msgid "ESG (Environmental Social and Governance)"
 msgstr ""
 
-#: ../../_files/glossario.rst:19
+#: ../../_files/glossario.rst:21
 msgid ""
 "Indicadores ambientais, sociais e de governação concebidos para avaliar o"
 " nível de comprometimento das organizações com os objetivos do "
 "desenvolvimento sustentável."
 msgstr ""
 
-#: ../../_files/glossario.rst:20
+#: ../../_files/glossario.rst:22
 msgid "Aptidão"
 msgstr ""
 
-#: ../../_files/glossario.rst:23
+#: ../../_files/glossario.rst:25
 msgid "Medida da habilidade para desempenho e funções."
 msgstr ""
 
-#: ../../_files/glossario.rst:25
+#: ../../_files/glossario.rst:27
 msgid ""
 "*NOTA 1: No contexto deste documento está relacionada com competências, "
 "conhecimento e especialização para gerir informação.*"
 msgstr ""
 
-#: ../../_files/glossario.rst:26
+#: ../../_files/glossario.rst:28
 msgid "Ativo"
 msgstr ""
 
-#: ../../_files/glossario.rst:29
+#: ../../_files/glossario.rst:31
 msgid ""
 "Item, coisa ou entidade, que tem valor potencial ou real para uma "
 "organização."
 msgstr ""
 
-#: ../../_files/glossario.rst:30
+#: ../../_files/glossario.rst:32
 msgid "Ator"
 msgstr ""
 
-#: ../../_files/glossario.rst:33
+#: ../../_files/glossario.rst:35
 msgid ""
 "Pessoa, organização ou unidade organizacional envolvida num processo de "
 "construção."
 msgstr ""
 
-#: ../../_files/glossario.rst:35
+#: ../../_files/glossario.rst:37
 msgid ""
 "*NOTA 1: As unidades organizacionais incluem, entre outros, departamentos"
 " e equipas.*"
 msgstr ""
 
-#: ../../_files/glossario.rst:37
+#: ../../_files/glossario.rst:39
 msgid ""
 "*NOTA 2: No contexto deste documento, os processos de construção ocorrem "
 "durante o período de desenvolvimento e o período operacional.*"
 msgstr ""
 
-#: ../../_files/glossario.rst:38
+#: ../../_files/glossario.rst:40
 msgid "Bloco de informação"
 msgstr ""
 
-#: ../../_files/glossario.rst:41
+#: ../../_files/glossario.rst:43
 msgid ""
 "Conjunto persistente de informação devidamente nomeado, que pode ser "
 "recuperado a partir de uma hierarquia de armazenamento de ficheiros, "
 "sistemas ou aplicações."
 msgstr ""
 
-#: ../../_files/glossario.rst:43
+#: ../../_files/glossario.rst:45
 msgid ""
 "*EXEMPLO: Incluindo subpasta, ficheiro de informação (incluindo modelo, "
 "documento, tabela, cronograma) ou distintos subconjuntos de um ficheiro "
 "de informação, como um capítulo ou secção, camada ou símbolo.*"
 msgstr ""
 
-#: ../../_files/glossario.rst:45
+#: ../../_files/glossario.rst:47
 msgid ""
 "*NOTA 1 : Os blocos de informação estruturados incluem modelos "
 "geométricos, planeamentos e bases de dados. Os blocos de informação não "
 "estruturados incluem documentação, videoclips e gravações sonoras.*"
 msgstr ""
 
-#: ../../_files/glossario.rst:47
+#: ../../_files/glossario.rst:49
 msgid ""
 "*NOTA 2 : As informações persistentes existem numa escala temporal "
 "suficientemente longa para terem de ser geridas, isto é, exclui "
 "informações transitórias como resultados de pesquisas na internet.*"
 msgstr ""
 
-#: ../../_files/glossario.rst:49
+#: ../../_files/glossario.rst:51
 msgid ""
 "*NOTA 3 : A nomeação de um bloco de informação deverá estar de acordo com"
 " uma convenção de nomenclatura acordada.*"
 msgstr ""
 
-#: ../../_files/glossario.rst:50
+#: ../../_files/glossario.rst:52
 msgid "Capacidade"
 msgstr ""
 
-#: ../../_files/glossario.rst:53
+#: ../../_files/glossario.rst:55
 msgid "Recursos disponíveis para a execução e funcionamento."
 msgstr ""
 
-#: ../../_files/glossario.rst:55
+#: ../../_files/glossario.rst:57
 msgid ""
 "*NOTA 1: No contexto deste documento, está relacionado com os recursos e "
 "procedimentos para gerir informação.*"
 msgstr ""
 
-#: ../../_files/glossario.rst:56
+#: ../../_files/glossario.rst:58
 msgid "Ciclo de vida"
 msgstr ""
 
-#: ../../_files/glossario.rst:59
+#: ../../_files/glossario.rst:61
 msgid ""
 "Vida do ativo desde a definição dos seus requisitos até ao final da sua "
 "vida útil, cobrindo a conceção, desenvolvimento, operação, manutenção e "
 "desmantelamento."
 msgstr ""
 
-#: ../../_files/glossario.rst:60
+#: ../../_files/glossario.rst:62
 msgid "Compromisso"
 msgstr ""
 
-#: ../../_files/glossario.rst:63
+#: ../../_files/glossario.rst:65
 msgid ""
 "Instruções acordadas para o fornecimento de informação sobre trabalhos, "
 "bens ou serviços."
 msgstr ""
 
-#: ../../_files/glossario.rst:65
+#: ../../_files/glossario.rst:67
 msgid ""
 "*NOTA 1: Este termo é usado quer haja, ou não, um compromisso formal "
 "entre as partes.*"
 msgstr ""
 
-#: ../../_files/glossario.rst:69
+#: ../../_files/glossario.rst:71
 msgid "Evidência necessária para considerar que os requisitos foram cumpridos."
 msgstr ""
 
-#: ../../_files/glossario.rst:70
+#: ../../_files/glossario.rst:72
 msgid "Entidade fornecedora"
 msgstr ""
 
-#: ../../_files/glossario.rst:73
+#: ../../_files/glossario.rst:75
 msgid "Fornecedor de informação sobre trabalhos, bens ou serviços."
 msgstr ""
 
-#: ../../_files/glossario.rst:75
+#: ../../_files/glossario.rst:77
 msgid ""
 "*NOTA 1: Para cada equipa de desenvolvimento deverá ser identificada uma "
 "entidade fornecedora líder, podendo ser a mesma organização de uma das "
 "equipas de trabalho.*"
 msgstr ""
 
-#: ../../_files/glossario.rst:77
+#: ../../_files/glossario.rst:79
 msgid ""
 "*NOTA 2: Este termo é usado independentemente de existir, ou não, um "
 "compromisso formal por escrito.*"
 msgstr ""
 
-#: ../../_files/glossario.rst:78
+#: ../../_files/glossario.rst:80
 msgid "Entidade requerente"
 msgstr ""
 
-#: ../../_files/glossario.rst:81
+#: ../../_files/glossario.rst:83
 msgid ""
 "Recetor de informação, sobre trabalhos, bens ou serviços, proveniente de "
 "uma entidade fornecedora líder."
 msgstr ""
 
-#: ../../_files/glossario.rst:83
+#: ../../_files/glossario.rst:85
 msgid ""
 "*NOTA 1: Em alguns países a entidade requerente pode ser denominada por "
 "cliente, empregador ou dono de obra, mas a entidade requerente não se "
 "limita a essas funções.*"
 msgstr ""
 
-#: ../../_files/glossario.rst:85
+#: ../../_files/glossario.rst:87
 msgid ""
 "*NOTA 2: Este termo é usado independentemente de existir, ou não, um "
 "compromisso formal entre as partes.*"
 msgstr ""
 
-#: ../../_files/glossario.rst:86
+#: ../../_files/glossario.rst:88
 msgid "Equipa de desenvolvimento"
 msgstr ""
 
-#: ../../_files/glossario.rst:89
+#: ../../_files/glossario.rst:91
 msgid "Entidade fornecedora líder e suas entidades fornecedoras."
 msgstr ""
 
-#: ../../_files/glossario.rst:91
+#: ../../_files/glossario.rst:93
 msgid ""
 "*NOTA 1: Uma equipa de desenvolvimento pode ter qualquer tamanho, desde "
 "uma pessoa que executa todas as funções necessárias até equipas de "
@@ -2623,7 +2627,7 @@ msgid ""
 "atividades de gestão de ativos ou de desenvolvimento dos projetos.*"
 msgstr ""
 
-#: ../../_files/glossario.rst:93
+#: ../../_files/glossario.rst:95
 msgid ""
 "*NOTA 2: Várias equipas de desenvolvimento podem ser nomeadas "
 "simultaneamente e/ou sequencialmente em relação a um único ativo ou "
@@ -2631,134 +2635,134 @@ msgid ""
 "ativos ou de desenvolvimento dos projetos.*"
 msgstr ""
 
-#: ../../_files/glossario.rst:95
+#: ../../_files/glossario.rst:97
 msgid ""
 "*NOTA 3: Uma equipa de desenvolvimento pode ser constituída por várias "
 "equipas de trabalho provenientes da organização da entidade fornecedora "
 "líder e de qualquer entidade fornecedora.*"
 msgstr ""
 
-#: ../../_files/glossario.rst:97
+#: ../../_files/glossario.rst:99
 msgid ""
 "*NOTA 4: Uma equipa de desenvolvimento pode ser criada pela entidade "
 "requerente em vez da entidade fornecedora líder.*"
 msgstr ""
 
-#: ../../_files/glossario.rst:98
+#: ../../_files/glossario.rst:100
 msgid "Equipa de projeto"
 msgstr ""
 
-#: ../../_files/glossario.rst:101
+#: ../../_files/glossario.rst:103
 msgid "Entidade requerente e todas as equipas de desenvolvimento."
 msgstr ""
 
-#: ../../_files/glossario.rst:102
+#: ../../_files/glossario.rst:104
 msgid "Equipa de trabalho"
 msgstr ""
 
-#: ../../_files/glossario.rst:105
+#: ../../_files/glossario.rst:107
 msgid "Indivíduos organizados para desenvolver um determinado trabalho."
 msgstr ""
 
-#: ../../_files/glossario.rst:106
+#: ../../_files/glossario.rst:108
 msgid "Espaço"
 msgstr ""
 
-#: ../../_files/glossario.rst:109
+#: ../../_files/glossario.rst:111
 msgid "Extensão tridimensional limitada e definida fisicamente ou nocionalmente."
 msgstr ""
 
-#: ../../_files/glossario.rst:110
+#: ../../_files/glossario.rst:112
 msgid "Federação"
 msgstr ""
 
-#: ../../_files/glossario.rst:113
+#: ../../_files/glossario.rst:115
 msgid ""
 "Criação de um modelo de informação a partir de blocos de informação "
 "separados."
 msgstr ""
 
-#: ../../_files/glossario.rst:115
+#: ../../_files/glossario.rst:117
 msgid ""
 "*NOTA 1: Os blocos de informação separados que são usados no âmbito da "
 "federação podem provir de diferentes equipas de trabalho.*"
 msgstr ""
 
-#: ../../_files/glossario.rst:116
+#: ../../_files/glossario.rst:118
 msgid "Informação"
 msgstr ""
 
-#: ../../_files/glossario.rst:119
+#: ../../_files/glossario.rst:121
 msgid ""
 "Representação reinterpretável de dados com uma forma adequada para "
 "comunicação, interpretação ou processamento."
 msgstr ""
 
-#: ../../_files/glossario.rst:121
+#: ../../_files/glossario.rst:123
 msgid ""
 "*NOTA 1: A informação pode ser processada por meios humanos ou "
 "automáticos.*"
 msgstr ""
 
-#: ../../_files/glossario.rst:122
+#: ../../_files/glossario.rst:124
 msgid "Informação de projeto"
 msgstr ""
 
-#: ../../_files/glossario.rst:125
+#: ../../_files/glossario.rst:127
 msgid "Informação produzida para, ou utilizada em, um projeto em particular."
 msgstr ""
 
-#: ../../_files/glossario.rst:126
+#: ../../_files/glossario.rst:128
 msgid "Marco de entrega de informação"
 msgstr ""
 
-#: ../../_files/glossario.rst:129
+#: ../../_files/glossario.rst:131
 msgid "Evento programado para uma troca de informação predefinida."
 msgstr ""
 
-#: ../../_files/glossario.rst:130
+#: ../../_files/glossario.rst:132
 msgid "Modelação de informação da construção"
 msgstr ""
 
-#: ../../_files/glossario.rst:133
+#: ../../_files/glossario.rst:135
 msgid "BIM (*Building Information Modelling*)"
 msgstr ""
 
-#: ../../_files/glossario.rst:135
+#: ../../_files/glossario.rst:137
 msgid ""
 "Uso de uma representação digital partilhada de um ativo construído para "
 "facilitar os processos de conceção, construção e operação, formando uma "
 "base confiável de apoio à decisão."
 msgstr ""
 
-#: ../../_files/glossario.rst:137
+#: ../../_files/glossario.rst:139
 msgid ""
 "NOTA 1: Ativos construídos incluem, mas não estão limitados a edifícios, "
 "pontes, vias de comunicação (rodoviárias, ferroviárias) e instalações "
 "industriais."
 msgstr ""
 
-#: ../../_files/glossario.rst:138
+#: ../../_files/glossario.rst:140
 msgid "Modelo de informação"
 msgstr ""
 
-#: ../../_files/glossario.rst:141
+#: ../../_files/glossario.rst:143
 msgid "Conjunto de blocos de informação estruturada e não estruturada."
 msgstr ""
 
-#: ../../_files/glossario.rst:142
+#: ../../_files/glossario.rst:144
 msgid "Modelo de informação do projeto"
 msgstr ""
 
-#: ../../_files/glossario.rst:145
+#: ../../_files/glossario.rst:147
 msgid "PIM (*Project Information Model*)"
 msgstr ""
 
-#: ../../_files/glossario.rst:147
+#: ../../_files/glossario.rst:149
 msgid "Modelo de informação relacionado com o período de desenvolvimento."
 msgstr ""
 
-#: ../../_files/glossario.rst:149
+#: ../../_files/glossario.rst:151
 msgid ""
 "*NOTA 1: Durante o projeto, o modelo de informação do projeto pode ser "
 "usado para transmitir a intenção da atividade do projetista (por vezes "
@@ -2768,142 +2772,142 @@ msgid ""
 "\"modelo\" ou \"modelo IFC\".*"
 msgstr ""
 
-#: ../../_files/glossario.rst:150
+#: ../../_files/glossario.rst:152
 msgid "Nível de informação necessário"
 msgstr ""
 
-#: ../../_files/glossario.rst:153
+#: ../../_files/glossario.rst:155
 msgid "Metodologia que define a extensão e granularidade da informação."
 msgstr ""
 
-#: ../../_files/glossario.rst:155
+#: ../../_files/glossario.rst:157
 msgid ""
 "*NOTA 1: Um dos propósitos da definição do nível de informação necessário"
 " é prevenir a entrega de demasiada informação.*"
 msgstr ""
 
-#: ../../_files/glossario.rst:166
+#: ../../_files/glossario.rst:168
 msgid "Perguntas em linguagem clara"
 msgstr ""
 
-#: ../../_files/glossario.rst:169
+#: ../../_files/glossario.rst:171
 msgid "PLQ (*Plain Language Questions*)"
 msgstr ""
 
-#: ../../_files/glossario.rst:171
+#: ../../_files/glossario.rst:173
 msgid ""
 "Perguntas formuladas em linguagem simples e clara, concebidas de modo a "
 "evitar jargão técnico ou linguagem complexa."
 msgstr ""
 
-#: ../../_files/glossario.rst:156
+#: ../../_files/glossario.rst:158
 msgid "Período de desenvolvimento"
 msgstr ""
 
-#: ../../_files/glossario.rst:159
+#: ../../_files/glossario.rst:161
 msgid ""
 "Parte do ciclo de vida durante a qual um ativo é projetado, construído e "
 "comissionado."
 msgstr ""
 
-#: ../../_files/glossario.rst:161
+#: ../../_files/glossario.rst:163
 msgid ""
 "*NOTA 1: O período de desenvolvimento normalmente reflete uma abordagem "
 "ao projeto baseada em fases.*"
 msgstr ""
 
-#: ../../_files/glossario.rst:162
+#: ../../_files/glossario.rst:164
 msgid "Período operacional"
 msgstr ""
 
-#: ../../_files/glossario.rst:165
+#: ../../_files/glossario.rst:167
 msgid "Parte do ciclo de vida durante a qual um ativo é usado, operado e mantido."
 msgstr ""
 
-#: ../../_files/glossario.rst:172
+#: ../../_files/glossario.rst:174
 msgid "Plano de execução BIM"
 msgstr ""
 
-#: ../../_files/glossario.rst:175
+#: ../../_files/glossario.rst:177
 msgid "BEP (*BIM Execution Plan*)"
 msgstr ""
 
-#: ../../_files/glossario.rst:177
+#: ../../_files/glossario.rst:179
 msgid ""
 "Plano que explica como serão realizados, pela equipa de desenvolvimento, "
 "os aspetos de gestão da informação do compromisso."
 msgstr ""
 
-#: ../../_files/glossario.rst:179
+#: ../../_files/glossario.rst:181
 msgid ""
 "*NOTA 1: O plano de execução BIM pré-compromisso foca-se na abordagem "
 "proposta pela equipa de desenvolvimento para a gestão da informação e na "
 "sua aptidão e capacidade para gerir a informação.*"
 msgstr ""
 
-#: ../../_files/glossario.rst:183
+#: ../../_files/glossario.rst:185
 msgid ""
 "Momento no tempo durante o ciclo de vida em que é tomada uma decisão "
 "crucial para a direção e viabilidade de um ativo."
 msgstr ""
 
-#: ../../_files/glossario.rst:185
+#: ../../_files/glossario.rst:187
 msgid ""
 "*NOTA 1: Durante o projeto estes momentos geralmente acontecem alinhados "
 "com as fases do projeto.*"
 msgstr ""
 
-#: ../../_files/glossario.rst:186
+#: ../../_files/glossario.rst:188
 msgid "Requisito de informação"
 msgstr ""
 
-#: ../../_files/glossario.rst:189
+#: ../../_files/glossario.rst:191
 msgid ""
 "Especificação de o quê, quando, como e para quem a informação será "
 "produzida."
 msgstr ""
 
-#: ../../_files/glossario.rst:190
+#: ../../_files/glossario.rst:192
 msgid "Requisitos de informação do projeto"
 msgstr ""
 
-#: ../../_files/glossario.rst:193
+#: ../../_files/glossario.rst:195
 msgid "PIR (*Project Information Requirements*)"
 msgstr ""
 
-#: ../../_files/glossario.rst:195
+#: ../../_files/glossario.rst:197
 msgid "Requisitos de informação relacionados com o desenvolvimento de um ativo."
 msgstr ""
 
-#: ../../_files/glossario.rst:196
+#: ../../_files/glossario.rst:198
 msgid "Requisitos de informação organizacional"
 msgstr ""
 
-#: ../../_files/glossario.rst:199
+#: ../../_files/glossario.rst:201
 msgid "OIR (*Organizational Information Requirements*)"
 msgstr ""
 
-#: ../../_files/glossario.rst:201
+#: ../../_files/glossario.rst:203
 msgid "Requisitos de informação relacionados com os objetivos organizacionais."
 msgstr ""
 
-#: ../../_files/glossario.rst:202
+#: ../../_files/glossario.rst:204
 msgid "Requisitos de troca de informação"
 msgstr ""
 
-#: ../../_files/glossario.rst:205
+#: ../../_files/glossario.rst:207
 msgid "EIR (*Exchange Information Requirements*)"
 msgstr ""
 
-#: ../../_files/glossario.rst:207
+#: ../../_files/glossario.rst:209
 msgid "Requisitos de informação relacionados com um compromisso."
 msgstr ""
 
-#: ../../_files/glossario.rst:208
+#: ../../_files/glossario.rst:210
 msgid "Trocar informação"
 msgstr ""
 
-#: ../../_files/glossario.rst:211
+#: ../../_files/glossario.rst:213
 msgid "Ato de satisfazer um requisito de informação ou parte deste."
 msgstr ""
 
